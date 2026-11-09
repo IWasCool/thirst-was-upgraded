@@ -40,7 +40,6 @@ or download the `thirst-was-upgraded` artifact from a successful
 and extract the ZIP, or build from source. GitHub requires sign-in to download build artifacts.
 Place `thirst_was_upgraded-neoforge-1.21.1-1.0.0.jar` in the `mods` folder on the client and server,
 replacing older Thirst Was Upgraded JARs so only one version is installed.
-The separate `-sources.jar` contains source code for developers.
 
 **Optional integrations:** Create 6.0.10+ adds Builder's Tea support; Tough As Nails
 10.1.0.13+ adds canteen support. Install each optional mod's own dependencies as usual.

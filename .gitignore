@@ -62,3 +62,4 @@ __pycache__/
 /gradle/local-tests.gradle
 /tools/
 /.local/
+*-sources.jar

@@ -24,9 +24,11 @@ jobs:
       - name: Build and verify
         run: ./gradlew --no-daemon build
 
-      - name: Upload mod and sources
+      - name: Upload mod
         uses: actions/upload-artifact@v4
         with:
           name: thirst-was-upgraded
-          path: build/libs/*.jar
+          path: |
+            build/libs/thirst_was_upgraded-neoforge-*.jar
+            !build/libs/*-sources.jar
           if-no-files-found: error
