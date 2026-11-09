@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Ішу жақсартуы",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Шөлді басу үшін рюкзактан су мен басқа сусындарды автоматты түрде ішеді",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Ішу жақсартуы",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Тізімде көрсетілген сусындарға рұқсат етіңіз (су бөтелкесін немесе резервуардағы су үшін шелек пайдаланыңыз)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Тізімде көрсетілген сусындарды блоктау (су бөтелкесін немесе резервуардағы су үшін шелек пайдаланыңыз)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Шөлдеу жолағы толық болмаған кезде ішіңіз",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Сусынның шөлді қалпына келтірудің кем дегенде жартысын қолдануға болатын кезде ішіңіз",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Сусынның барлық шөлді қалпына келтіруге болатын кезде ғана ішіңіз",
+  "screen.thirst_was_upgraded.filter_pure_only": "Тек тазартылған суды пайдаланыңыз",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Кез келген таза суға рұқсат етіңіз"
+}

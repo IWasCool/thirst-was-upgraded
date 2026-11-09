@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Подобрение за пиене",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Автоматично пие вода и други напитки от раницата, за да утоли жаждата",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Подобрение за пиене",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Разрешете изброените напитки (използвайте бутилка с вода или кофа за вода в резервоара)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Блокирайте изброените напитки (използвайте бутилка с вода или кофа за вода в резервоара)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Пийте винаги, когато лентата за жажда не е пълна",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Пийте, когато можете да използвате поне половината от напитката за възстановяване на жаждата",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Пийте само когато може да се използва цялото възстановяване на жаждата от напитката",
+  "screen.thirst_was_upgraded.filter_pure_only": "Използвайте само пречистена вода",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Позволете вода с всякаква чистота"
+}

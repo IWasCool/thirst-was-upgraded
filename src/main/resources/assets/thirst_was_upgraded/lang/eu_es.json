@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Edateko hobekuntza",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Motxilatik ura eta beste edariak automatikoki edaten ditu egarria asetzeko",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Edateko hobekuntza",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Onartu zerrendatutako edariak (erabili ur botila edo ontzi bat deposituko uretarako)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokeatu zerrendatutako edariak (erabili ur botila edo ontzi bat deposituko uretarako)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Edan barra beteta ez dagoen bakoitzean",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Edan edariaren egarria berreskuratzeko gutxienez erdia erabil daitekeenean",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Edan edariaren egarria berreskuratzeko guztia erabil daitekeenean bakarrik",
+  "screen.thirst_was_upgraded.filter_pure_only": "Erabili ura araztua soilik",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Baimendu edozein garbitasuneko ura"
+}

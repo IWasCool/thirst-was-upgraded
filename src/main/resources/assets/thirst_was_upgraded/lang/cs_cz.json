@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Vylepšení pití",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automaticky pije vodu a další nápoje z batohu k uhašení žízně",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Vylepšení pití",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Povolit uvedené nápoje (použijte láhev s vodou nebo kbelík na vodu v nádrži)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokujte uvedené nápoje (použijte láhev s vodou nebo kbelík na vodu v nádrži)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Pijte vždy, když bar na žízeň není plný",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Napijte se, když můžete využít alespoň polovinu nápoje na obnovu žízně",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Pijte pouze tehdy, můžete-li využít veškerou obnovu žízně nápoje",
+  "screen.thirst_was_upgraded.filter_pure_only": "Používejte pouze čištěnou vodu",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Nechte vodu jakékoli čistoty"
+}

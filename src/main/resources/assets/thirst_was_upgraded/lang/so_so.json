@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Horumarinta Cabitaanka",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Waxay si toos ah uga cabtaa biyaha iyo cabitaannada kale boorsada dhabarka si ay u damiyaan haraadka",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Horumarinta Cabitaanka",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Oggolow cabitaanada liiska ku qoran (ku isticmaal dhalada biyaha ama baaldiga biyaha haanta)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Xidh cabitaanada liiska ku jira (ku isticmaal dhalada biyaha ama baaldiga biyaha haanta)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Cab mar kasta oo haraadku aanu buuxin",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Cab marka ugu yaraan kala badh soo celinta haraadka cabitaanka la isticmaali karo",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Cab kaliya marka dhammaan soo celinta haraadka cabitaanka la isticmaali karo",
+  "screen.thirst_was_upgraded.filter_pure_only": "Isticmaal biyo nadiif ah oo keliya",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "U ogolow biyaha wax kasta oo nadiif ah"
+}

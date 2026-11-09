@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Ulepszynie picio",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Autōmatycznie pije woda i inksze napoje z rynku, coby uspokojić szmag",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Ulepszynie picio",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Przizwolaj na wymiyniōne napoje (użyj butelki wodnyj abo łydka do wody ze zbiornika)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Nopoje za blokowane (użyj butelki wody abo łydka do wody ze zbiornika)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Pij, kej ino bar ôd szmagōw niy ma pełny",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Pij, kej może być użyto aby pōłowa restauracyje szmag ôd napowu",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Pij ino tedy, kej cołki restauracyjo sprzeg ôd napowu może być użyto",
+  "screen.thirst_was_upgraded.filter_pure_only": "Używaj ino ôczyszczōnyj wody",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Przizwolaj na woda ô leda jakij czystości"
+}

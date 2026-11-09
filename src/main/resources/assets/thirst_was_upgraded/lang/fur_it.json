@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Miorament automatic dal bevi aghe",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Al bef in mût automatic aghe e altris bevandis dal zaini par dismenteâ la sete",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Miorament automatic dal bevi aghe",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permeti lis bevandis elencadis (doprâ une butilie di aghe o un sec pe aghe de cistierne)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Lis bevandis blocadis (doprâ une butilie di aghe o un sec pe aghe de cistierne)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Bevi cuant che la barre de sete no je plene",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Bevi cuant che si pues doprâ almancul la metât dal restaur de sete de bevude",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Bevi dome cuant che si pues doprâ dut il restaur de sete de bevude",
+  "screen.thirst_was_upgraded.filter_pure_only": "Utilizâ dome aghe purificade",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Lassâ aghe di cualsisei purece"
+}

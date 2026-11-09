@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "飲水升級",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "自動飲用背包中的水和其他飲品以解渴",
+  "screen.thirst_was_upgraded.drinking_upgrade": "飲水升級",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "允許清單中的飲品（用水瓶或水桶篩選儲槽中的水）",
+  "screen.thirst_was_upgraded.filter_block_drinks": "禁止清單中的飲品（用水瓶或水桶篩選儲槽中的水）",
+  "screen.thirst_was_upgraded.filter_always_drink": "口渴值未滿時飲用",
+  "screen.thirst_was_upgraded.filter_half_hydration": "能利用飲品至少一半的解渴效果時飲用",
+  "screen.thirst_was_upgraded.filter_full_hydration": "僅在能充分利用飲品的解渴效果時飲用",
+  "screen.thirst_was_upgraded.filter_pure_only": "僅使用淨化水",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "允許任何純度的水"
+}

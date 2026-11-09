@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Nâng cấp uống nước",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Tự động uống nước và đồ uống khác từ ba lô để giải khát",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Nâng cấp uống nước",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Cho phép đồ uống được liệt kê (sử dụng chai nước hoặc xô để đựng nước trong bể)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Chặn đồ uống được liệt kê (dùng chai nước hoặc xô đựng nước trong bể)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Uống bất cứ khi nào thanh khát chưa đầy",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Uống khi có thể sử dụng ít nhất một nửa lượng đồ uống phục hồi cơn khát",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Chỉ uống khi có thể sử dụng hết lượng đồ uống phục hồi cơn khát",
+  "screen.thirst_was_upgraded.filter_pure_only": "Chỉ sử dụng nước tinh khiết",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Cho phép nước có độ tinh khiết bất kỳ"
+}

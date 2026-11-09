@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Hoʻonui i ka inu wai ʻakomi",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "E inu ʻakomi i ka wai a me nā mea inu ʻē aʻe mai ka ʻeke ʻeke e hoʻopau i ka make wai",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Hoʻonui i ka inu wai ʻakomi",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "E ʻae i nā mea inu i helu ʻia (e hoʻohana i ka hue wai a i ʻole ka bākeke no ka wai pahu)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Kāohi i nā mea inu i helu ʻia (e hoʻohana i ka hue wai a i ʻole ka bākeke no ka wai pahu)",
+  "screen.thirst_was_upgraded.filter_always_drink": "E inu i nā manawa a pau ʻaʻole i piha ka pā make wai",
+  "screen.thirst_was_upgraded.filter_half_hydration": "E inu inā hiki ke hoʻohana ʻia ka hapalua o ka hoʻihoʻi hou ʻana o ka wai inu",
+  "screen.thirst_was_upgraded.filter_full_hydration": "E inu wale i ka wā e hiki ai ke hoʻohana hou i ka wai inu",
+  "screen.thirst_was_upgraded.filter_pure_only": "E hoʻohana i ka wai maʻemaʻe wale nō",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "E ʻae i ka wai maʻemaʻe"
+}

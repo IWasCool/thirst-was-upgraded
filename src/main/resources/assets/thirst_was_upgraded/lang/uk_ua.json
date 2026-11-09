@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Поліпшення пиття",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Автоматично п'є воду та інші напої з рюкзака, щоб втамувати спрагу",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Поліпшення пиття",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Дозволити перераховані напої (використовуйте пляшку з водою або відро для води в резервуарі)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Блокуйте напої зі списку (використовуйте пляшку з водою або відро для води в резервуарі)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Пийте щоразу, коли батончик спраги не наповнений",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Пийте, коли можна використати принаймні половину напою для відновлення спраги",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Пийте лише тоді, коли можна використати весь напій для відновлення спраги",
+  "screen.thirst_was_upgraded.filter_pure_only": "Використовуйте тільки очищену воду",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Допускається вода будь-якої чистоти"
+}

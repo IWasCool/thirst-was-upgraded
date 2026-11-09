@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Ulepszenie picia",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automatycznie pije wodę i inne napoje z plecaka, aby ugasić pragnienie",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Ulepszenie picia",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Zezwalaj na wymienione napoje (użyj butelki z wodą lub wiadra do wody w zbiorniku)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Zablokuj wymienione napoje (użyj butelki z wodą lub wiadra do wody w zbiorniku)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Pij zawsze, gdy pasek pragnienia nie jest pełny",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Pij, gdy można wykorzystać przynajmniej połowę zapotrzebowania na napój",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Pij tylko wtedy, gdy możliwe jest wykorzystanie całego napoju na pokrycie pragnienia",
+  "screen.thirst_was_upgraded.filter_pure_only": "Używaj wyłącznie oczyszczonej wody",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Pozwól na wodę o dowolnej czystości"
+}

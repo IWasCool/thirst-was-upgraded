@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drinkopgradering",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drink outomaties water en ander drankies uit die rugsak om dors te les",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drinkopgradering",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Laat gelyste drankies toe (gebruik 'n waterbottel of emmer vir tenkwater)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokkelys drankies (gebruik 'n waterbottel of emmer vir tenkwater)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drink wanneer die dorsbalk nie vol is nie",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drink wanneer ten minste die helfte van die drank se dors herstel gebruik kan word",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drink slegs wanneer al die drank se dors herstel gebruik kan word",
+  "screen.thirst_was_upgraded.filter_pure_only": "Gebruik slegs gesuiwerde water",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Laat water van enige suiwerheid toe"
+}

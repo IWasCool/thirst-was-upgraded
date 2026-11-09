@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drénkverbesserung",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drénkt automatesch Waasser an aner Gedrénks aus dem Rucksak fir Duuscht ze läschen",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drénkverbesserung",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Erlaabt opgelëscht Gedrénks (benotzt eng Waasserfläsch oder Eemer fir Tankwaasser)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blockéiert Gedrénks (benotzt eng Waasserfläsch oder Eemer fir Tankwaasser)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drénken wann d'Duuscht Bar net voll ass",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drénken wann op d'mannst d'Halschent vun der Gedrénks Duuscht Restauratioun benotzt ka ginn",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drénken nëmmen wann all d'Drénken Duuscht Restauratioun benotzt ka ginn",
+  "screen.thirst_was_upgraded.filter_pure_only": "Benotzt nëmme gereinegt Waasser",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Loosst Waasser vun all Rengheet"
+}

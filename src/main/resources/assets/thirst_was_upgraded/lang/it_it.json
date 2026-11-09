@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Potenziamento per bere",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Beve automaticamente acqua e altre bevande dallo zaino per dissetarsi",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Potenziamento per bere",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Consenti le bevande elencate (usa una bottiglia d’acqua o un secchio per filtrare l’acqua del serbatoio)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blocca le bevande elencate (usa una bottiglia d’acqua o un secchio per filtrare l’acqua del serbatoio)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Bevi quando la barra della sete non è piena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Bevi quando puoi sfruttare almeno metà dell’idratazione della bevanda",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Bevi solo quando puoi sfruttare tutta l’idratazione della bevanda",
+  "screen.thirst_was_upgraded.filter_pure_only": "Usa solo acqua purificata",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Consenti acqua di qualsiasi purezza"
+}

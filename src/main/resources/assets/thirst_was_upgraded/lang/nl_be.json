@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drinkupgrade",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drinkt automatisch water en andere dranken uit de rugzak om de dorst te lessen",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drinkupgrade",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Sta vermelde drankjes toe (gebruik een waterfles of emmer voor tankwater)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokkeer vermelde drankjes (gebruik een waterfles of emmer voor tankwater)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drink wanneer de dorstbalk niet vol is",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drink wanneer ten minste de helft van de dorstherstellende drank kan worden benut",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drink alleen als de dorstherstellende drank volledig kan worden benut",
+  "screen.thirst_was_upgraded.filter_pure_only": "Gebruik alleen gezuiverd water",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Laat water van elke zuiverheid toe"
+}

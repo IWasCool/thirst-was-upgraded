@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Millora de beguda",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Beu automàticament aigua i altres begudes de la motxilla per saciar la set",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Millora de beguda",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permet les begudes indicades (utilitza una ampolla d'aigua o una galleda per a l'aigua del dipòsit)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloqueja les begudes enumerades (utilitza una ampolla d'aigua o una galleda per a l'aigua del dipòsit)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Beure sempre que la barra de la set no estigui plena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Beure quan es pugui utilitzar almenys la meitat de la restauració de la set de la beguda",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Beure només quan es pugui utilitzar tota la restauració de la set de la beguda",
+  "screen.thirst_was_upgraded.filter_pure_only": "Utilitzeu només aigua purificada",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permetre aigua de qualsevol puresa"
+}

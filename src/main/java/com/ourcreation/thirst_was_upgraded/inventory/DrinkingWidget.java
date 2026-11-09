@@ -1,0 +1,129 @@
+package com.ourcreation.thirst_was_upgraded.inventory;
+
+import com.ourcreation.thirst_was_upgraded.ThirstWasUpgraded;
+import com.tiviacz.travelersbackpack.client.screens.BackpackScreen;
+import com.tiviacz.travelersbackpack.client.screens.widgets.FilterUpgradeWidgetBase;
+import com.tiviacz.travelersbackpack.inventory.upgrades.Point;
+import com.tiviacz.travelersbackpack.inventory.upgrades.filter.ButtonStates;
+import com.tiviacz.travelersbackpack.inventory.upgrades.filter.FilterButton;
+
+import net.minecraft.client.gui.GuiGraphics;
+import net.minecraft.network.chat.Component;
+import net.minecraft.resources.ResourceLocation;
+
+import java.util.List;
+
+public class DrinkingWidget extends FilterUpgradeWidgetBase<DrinkingWidget, AutoDrinkingUpgrade> {
+
+    private static final ResourceLocation ICONS = ResourceLocation.fromNamespaceAndPath(
+            ThirstWasUpgraded.MOD_ID,
+            "textures/gui/icons.png"
+    );
+
+    private static final int BUTTON_SIZE = 18;
+    private static final int ICON_SIZE = 17;
+    private static final List<Component> ALLOW_MODE_TOOLTIPS = List.of(
+            Component.translatable("screen.thirst_was_upgraded.filter_allow_drinks"),
+            Component.translatable("screen.thirst_was_upgraded.filter_block_drinks")
+    );
+
+    private static final List<Component> THIRST_MODE_TOOLTIPS = List.of(
+            Component.translatable("screen.thirst_was_upgraded.filter_always_drink"),
+            Component.translatable("screen.thirst_was_upgraded.filter_half_hydration"),
+            Component.translatable("screen.thirst_was_upgraded.filter_full_hydration")
+    );
+
+    private static final List<Component> PURITY_TOOLTIPS = List.of(
+            Component.translatable("screen.thirst_was_upgraded.filter_pure_only"),
+            Component.translatable("screen.thirst_was_upgraded.filter_allow_all_water")
+    );
+
+    public DrinkingWidget(BackpackScreen screen, AutoDrinkingUpgrade upgrade, Point pos) {
+        super(screen, upgrade, pos, new Point(137, 0), "screen.thirst_was_upgraded.drinking_upgrade");
+
+        addFilterButton(new FilterButton<>(
+                this,
+                upgrade.getFilter().get(DrinkingFilterSettings.ALLOW_MODE),
+                ButtonStates.ALLOW_FEEDING,
+                new Point(pos.x() + 6, pos.y() + 22)
+        ));
+        addFilterButton(new DrinkingFilterButton(
+                this,
+                upgrade.getFilter().get(DrinkingFilterSettings.THIRST_MODE),
+                ButtonStates.HUNGER_MODE,
+                new Point(pos.x() + 6 + BUTTON_SIZE, pos.y() + 22),
+                0
+        ));
+        addFilterButton(new DrinkingFilterButton(
+                this,
+                upgrade.getFilter().get(DrinkingFilterSettings.PURITY_MODE),
+                ButtonStates.IGNORE_EFFECT_MODE,
+                new Point(pos.x() + 6 + 2 * BUTTON_SIZE, pos.y() + 22),
+                1
+        ));
+    }
+
+    @Override
+    public void renderTooltip(GuiGraphics guiGraphics, int mouseX, int mouseY) {
+        super.renderTooltip(guiGraphics, mouseX, mouseY);
+
+        if (!isTabOpened()) {
+            return;
+        }
+
+        renderButtonTooltip(guiGraphics, mouseX, mouseY, ButtonStates.ALLOW_FEEDING, ALLOW_MODE_TOOLTIPS);
+        renderButtonTooltip(guiGraphics, mouseX, mouseY, ButtonStates.HUNGER_MODE, THIRST_MODE_TOOLTIPS);
+        renderButtonTooltip(guiGraphics, mouseX, mouseY, ButtonStates.IGNORE_EFFECT_MODE, PURITY_TOOLTIPS);
+    }
+
+    private void renderButtonTooltip(
+            GuiGraphics guiGraphics,
+            int mouseX,
+            int mouseY,
+            ButtonStates.ButtonState state,
+            List<Component> tooltips
+    ) {
+        FilterButton<DrinkingWidget> button = getFilterButton(state);
+        if (button.isMouseOver(mouseX, mouseY)) {
+            guiGraphics.renderTooltip(screen.getFont(), tooltips.get(button.getCurrentState()), mouseX, mouseY);
+        }
+    }
+
+    private static class DrinkingFilterButton extends FilterButton<DrinkingWidget> {
+        private final Point pos;
+        private final int iconColumn;
+
+        private DrinkingFilterButton(
+                DrinkingWidget widget,
+                int currentState,
+                ButtonStates.ButtonState state,
+                Point pos,
+                int iconColumn
+        ) {
+            super(widget, currentState, state, pos);
+            this.pos = pos;
+            this.iconColumn = iconColumn;
+        }
+
+        @Override
+        public void renderButton(GuiGraphics guiGraphics, int mouseX, int mouseY) {
+            guiGraphics.blit(
+                    ICONS,
+                    pos.x(),
+                    pos.y(),
+                    BUTTON_SIZE,
+                    BUTTON_SIZE,
+                    iconColumn * ICON_SIZE,
+                    getCurrentState() * ICON_SIZE,
+                    ICON_SIZE,
+                    ICON_SIZE,
+                    34,
+                    51
+            );
+
+            if (isMouseOver(mouseX, mouseY)) {
+                guiGraphics.blit(BackpackScreen.ICONS, pos.x(), pos.y(), 24, 18, BUTTON_SIZE, BUTTON_SIZE);
+            }
+        }
+    }
+}

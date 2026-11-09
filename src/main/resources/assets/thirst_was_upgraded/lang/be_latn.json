@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Paliapшennie piццia",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Aŭtamatyчna p'je vadu i inшyja napoi z zaplieчnika, kab zdavolić smahu",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Paliapшennie piццia",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Dazvolić pieraliчanyja napoi (vykarystoŭvajцie butelku z vadoj abo viadro dlia vady ŭ baku)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Zabłakiravać pieraliчanyja napoi (vykarystoŭvajцie butelku z vadoj abo viadro dlia vady ŭ baku)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Piцie kožny raz, kali bar smahi nie napoŭnieny",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Vypiцie, kali možna vykarystoŭvać chaцia b pałovu napoju dlia adnaŭliennia smahi",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Piцie tolki tady, kali napoj moža цałkam supakoić smahu",
+  "screen.thirst_was_upgraded.filter_pure_only": "Vykarystoŭvajцie tolki vyчyшчanuju vadu",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Dapuskajeццa vada liuboj чysцini"
+}

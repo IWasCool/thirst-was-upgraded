@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Trinkada plibonigo",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Aŭtomate trinkas akvon kaj aliajn trinkaĵojn el la tornistro por kvietigi soifon",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Trinkada plibonigo",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permesu listigitajn trinkaĵojn (uzu akvobotelon aŭ sitelon por tankakvo)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloki listigitajn trinkaĵojn (uzu akvobotelon aŭ sitelon por tankakvo)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Trinku kiam ajn la soifa trinkejo ne estas plena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Trinku kiam almenaŭ duono de la soifa restarigo de la trinkaĵo povas esti uzata",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Trinku nur kiam la tuta soifa restarigo de la trinkaĵo povas esti uzata",
+  "screen.thirst_was_upgraded.filter_pure_only": "Uzu nur purigitan akvon",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permesu akvon de ajna pureco"
+}

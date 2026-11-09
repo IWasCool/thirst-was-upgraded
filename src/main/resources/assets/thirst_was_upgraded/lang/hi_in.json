@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "पीने का उन्नयन",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "प्यास बुझाने के लिए बैकपैक से स्वचालित रूप से पानी और अन्य पेय पीता है",
+  "screen.thirst_was_upgraded.drinking_upgrade": "पीने का उन्नयन",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "सूचीबद्ध पेय की अनुमति दें (टैंक के पानी के लिए पानी की बोतल या बाल्टी का उपयोग करें)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "सूचीबद्ध पेय पदार्थों को ब्लॉक करें (टैंक के पानी के लिए पानी की बोतल या बाल्टी का उपयोग करें)",
+  "screen.thirst_was_upgraded.filter_always_drink": "जब भी प्यास पूरी न हो तो पी लें",
+  "screen.thirst_was_upgraded.filter_half_hydration": "तब पियें जब पेय की प्यास बुझाने का कम से कम आधा हिस्सा इस्तेमाल किया जा सके",
+  "screen.thirst_was_upgraded.filter_full_hydration": "केवल तभी पियें जब पेय की पूरी प्यास बुझाने का उपयोग किया जा सके",
+  "screen.thirst_was_upgraded.filter_pure_only": "शुद्ध जल का ही प्रयोग करें",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "किसी भी शुद्धता का पानी पीने की अनुमति दें"
+}

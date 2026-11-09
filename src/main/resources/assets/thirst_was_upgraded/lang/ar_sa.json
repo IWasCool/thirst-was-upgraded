@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "ترقية الشرب",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "يقوم تلقائيًا بشرب الماء والمشروبات الأخرى من حقيبة الظهر لإرواء العطش",
+  "screen.thirst_was_upgraded.drinking_upgrade": "ترقية الشرب",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "السماح بالمشروبات المدرجة (استخدم زجاجة ماء أو دلو لمياه الخزان)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "منع المشروبات المدرجة (استخدم زجاجة ماء أو دلو لمياه الخزان)",
+  "screen.thirst_was_upgraded.filter_always_drink": "اشرب عندما لا يكون شريط العطش ممتلئًا",
+  "screen.thirst_was_upgraded.filter_half_hydration": "اشرب عندما يكون من الممكن استخدام نصف كمية المشروب على الأقل لترميم العطش",
+  "screen.thirst_was_upgraded.filter_full_hydration": "اشرب فقط عندما يكون من الممكن استخدام كل مشروب استعادة العطش",
+  "screen.thirst_was_upgraded.filter_pure_only": "استخدم الماء النقي فقط",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "السماح للمياه من أي نقاء"
+}

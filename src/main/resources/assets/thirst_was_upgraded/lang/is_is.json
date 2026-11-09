@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drykkjaruppfærsla",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drekkur sjálfkrafa vatn og aðra drykki úr bakpokanum til að svala þorsta",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drykkjaruppfærsla",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Leyfa skráða drykki (notaðu vatnsflösku eða fötu fyrir tankvatn)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Lokaðu fyrir drykki (notaðu vatnsflösku eða fötu fyrir tankvatn)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drekktu alltaf þegar þorstabarinn er ekki fullur",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drekkið þegar hægt er að nota að minnsta kosti helming af þorsta endurheimt drykksins",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drekkið aðeins þegar hægt er að nota alla þorsta endurheimt drykksins",
+  "screen.thirst_was_upgraded.filter_pure_only": "Notaðu eingöngu hreinsað vatn",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Leyfðu vatni af hvaða hreinleika sem er"
+}

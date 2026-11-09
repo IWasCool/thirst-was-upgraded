@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drikkeopgradering",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drikker automatisk vand og andre drikkevarer fra rygsækken for at slukke tørsten",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drikkeopgradering",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Tillad anførte drikkevarer (brug en vandflaske eller spand til tankvand)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloklistede drikkevarer (brug en vandflaske eller spand til tankvand)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drik, når tørstbaren ikke er fuld",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drik når mindst halvdelen af drikkens tørstgenopretning kan bruges",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drik kun, når hele drinkens tørstgenopretning kan bruges",
+  "screen.thirst_was_upgraded.filter_pure_only": "Brug kun renset vand",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Tillad vand af enhver renhed"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Naik Taraf Minum",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Secara automatik meminum air dan minuman lain dari beg galas untuk menghilangkan dahaga",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Naik Taraf Minum",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Benarkan minuman tersenarai (gunakan botol air atau baldi untuk air tangki)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Minuman tersenarai blok (gunakan botol air atau baldi untuk air tangki)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Minum setiap kali bar dahaga tidak penuh",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Minum apabila sekurang-kurangnya separuh daripada pemulihan dahaga minuman boleh digunakan",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Minum hanya apabila semua pemulihan dahaga minuman boleh digunakan",
+  "screen.thirst_was_upgraded.filter_pure_only": "Gunakan air yang telah disucikan sahaja",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Benarkan air apa-apa ketulenan"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "ارتقای نوشیدن",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "به طور خودکار آب و سایر نوشیدنی ها را از کوله پشتی برای رفع تشنگی می نوشد",
+  "screen.thirst_was_upgraded.drinking_upgrade": "ارتقای نوشیدن",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "نوشیدنی های فهرست شده را مجاز کنید (از بطری آب یا سطل برای آب مخزن استفاده کنید)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "نوشیدنی های فهرست شده را مسدود کنید (از بطری یا سطل آب برای مخزن آب استفاده کنید)",
+  "screen.thirst_was_upgraded.filter_always_drink": "هر زمان که نوار تشنگی پر نشد بنوشید",
+  "screen.thirst_was_upgraded.filter_half_hydration": "زمانی بنوشید که حداقل نیمی از عطش نوشیدنی قابل استفاده باشد",
+  "screen.thirst_was_upgraded.filter_full_hydration": "فقط زمانی بنوشید که تمام عطش نوشیدنی قابل استفاده باشد",
+  "screen.thirst_was_upgraded.filter_pure_only": "فقط از آب تصفیه شده استفاده کنید",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "اجازه دهید آب با هر خلوصی باشد"
+}

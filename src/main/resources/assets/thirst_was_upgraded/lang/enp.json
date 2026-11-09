@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drinking Betterment",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drinks water and other drinks from the backbag on its own to quench thirst",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drinking Betterment",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Let listed drinks through (use a water bottle or pail for tank water)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Block listed drinks (use a water bottle or pail for tank water)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drink whenever the thirst bar is not full",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drink when at least half of the drink's thirst-quenching strength can be used",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drink only when all of the drink's thirst-quenching strength can be used",
+  "screen.thirst_was_upgraded.filter_pure_only": "Use only clean water",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Let water of any cleanness through"
+}

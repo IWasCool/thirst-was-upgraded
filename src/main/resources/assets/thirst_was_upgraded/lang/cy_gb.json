@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Uwchraddiad Yfed",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Yn yfed dŵr a diodydd eraill yn awtomatig o'r sach gefn i dorri syched",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Uwchraddiad Yfed",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Caniatáu diodydd rhestredig (defnyddiwch botel ddŵr neu fwced ar gyfer dŵr tanc)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blociwch ddiodydd rhestredig (defnyddiwch botel ddŵr neu fwced ar gyfer dŵr tanc)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Yfwch pryd bynnag nad yw'r bar syched yn llawn",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Yfwch pan ellir defnyddio o leiaf hanner adferiad syched y ddiod",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Yfwch dim ond pan fydd modd defnyddio holl adferiad syched y ddiod",
+  "screen.thirst_was_upgraded.filter_pure_only": "Defnyddiwch ddŵr wedi'i buro yn unig",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Caniatáu dwr o unrhyw burdeb"
+}

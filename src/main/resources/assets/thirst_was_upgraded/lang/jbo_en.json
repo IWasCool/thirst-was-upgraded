@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drinking Upgrade",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automatically drinks water and other drinks from the backpack to quench thirst",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drinking Upgrade",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Allow listed drinks (use a water bottle or bucket for tank water)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Block listed drinks (use a water bottle or bucket for tank water)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drink whenever the thirst bar is not full",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drink when at least half of the drink's thirst restoration can be used",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drink only when all of the drink's thirst restoration can be used",
+  "screen.thirst_was_upgraded.filter_pure_only": "Use purified water only",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Allow water of any purity"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "ການຍົກລະດັບນໍ້າດື່ມອັດຕະໂນມັດ",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "ດື່ມນ້ຳອັດຕະໂນມັດ ແລະ ເຄື່ອງດື່ມອື່ນໆຈາກກະເປົ໋າເພື່ອດັບຄວາມກະຫາຍ",
+  "screen.thirst_was_upgraded.drinking_upgrade": "ການຍົກລະດັບນໍ້າດື່ມອັດຕະໂນມັດ",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "ອະ​ນຸ​ຍາດ​ໃຫ້​ມີ​ເຄື່ອງ​ດື່ມ​ໃນ​ບັນ​ຊີ (ໃຊ້​ກະ​ຕຸກ​ນ​້​ໍ​າ​ຫຼື​ຖັງ​ສໍາ​ລັບ​ນ​້​ໍ​າ​ຖັງ​)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "ບລັອກເຄື່ອງດື່ມທີ່ມີລາຍຊື່ (ໃຊ້ກະຕຸກນ້ຳ ຫຼືຖັງນ້ຳໃສ່ຖັງ)",
+  "screen.thirst_was_upgraded.filter_always_drink": "ດື່ມທຸກຄັ້ງທີ່ແຖບຄວາມຫິວບໍ່ເຕັມ",
+  "screen.thirst_was_upgraded.filter_half_hydration": "ດື່ມໃນເວລາທີ່ຢ່າງຫນ້ອຍເຄິ່ງຫນຶ່ງຂອງການຟື້ນຟູຄວາມກະຫາຍຂອງເຄື່ອງດື່ມສາມາດຖືກນໍາໃຊ້",
+  "screen.thirst_was_upgraded.filter_full_hydration": "ດື່ມພຽງແຕ່ໃນເວລາທີ່ການຟື້ນຟູຄວາມກະຫາຍຂອງເຄື່ອງດື່ມທັງຫມົດສາມາດນໍາໃຊ້ໄດ້",
+  "screen.thirst_was_upgraded.filter_pure_only": "ໃຊ້ນ້ໍາບໍລິສຸດເທົ່ານັ້ນ",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "ອະນຸຍາດໃຫ້ນ້ໍາຂອງຄວາມບໍລິສຸດໃດໆ"
+}

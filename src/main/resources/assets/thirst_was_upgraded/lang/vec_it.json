@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Ajornamento automatico de l’aqua da béar",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "El beve in automaticamente aqua e altre bevande dal zaino pa cavar ła sete",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Ajornamento automatico de l’aqua da béar",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permetare łe bevande (dopara na boteja o un secio pa l’aqua del serbatoio)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bevande in bloco (dopara na boteja o un secio pa l’aqua del serbatoio)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Bevi ogni volta che el bar de sete no xe pien",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Bevi quando che se pol doparar almanco ła metà deła restaurasion deła sé",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Bevi soło quando che se pol doparar tuto el restauro deła sé",
+  "screen.thirst_was_upgraded.filter_pure_only": "Dopara soło aqua purificà",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Lassar l’aqua de qualsiasi puresa"
+}

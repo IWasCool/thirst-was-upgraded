@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drinkin' Upgrade",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automatically swigs water an' other drinks from yer pack to quench yer thirst",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drinkin' Upgrade",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Allow these grogs (use a water bottle or bucket fer tank water)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bar these grogs (use a water bottle or bucket fer tank water)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Take a swig when yer thirst bar ain't full",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Take a swig when at least half its thirst-quenchin' power be useful",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Take a swig only when all its thirst-quenchin' power be useful",
+  "screen.thirst_was_upgraded.filter_pure_only": "Use only purified water, matey",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Allow water o' any purity"
+}

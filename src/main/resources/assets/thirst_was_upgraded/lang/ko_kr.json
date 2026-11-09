@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "음용 업그레이드",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "배낭에 있는 물과 기타 음료를 자동으로 마셔 갈증을 해소합니다.",
+  "screen.thirst_was_upgraded.drinking_upgrade": "음용 업그레이드",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "나열된 음료 허용(탱크 물용 물병이나 양동이 사용)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "나열된 음료 차단(탱크 물은 물병이나 양동이 사용)",
+  "screen.thirst_was_upgraded.filter_always_drink": "갈증 막대가 채워지지 않을 때마다 마신다.",
+  "screen.thirst_was_upgraded.filter_half_hydration": "음료의 갈증 회복 효과가 절반 이상 사용 가능할 때 마신다.",
+  "screen.thirst_was_upgraded.filter_full_hydration": "음료의 갈증 회복 효과를 모두 사용할 수 있을 때만 음료를 마십니다.",
+  "screen.thirst_was_upgraded.filter_pure_only": "정제수만 사용하세요",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "어떤 순도의 물이라도 허용하세요"
+}

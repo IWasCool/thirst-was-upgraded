@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Надградба за пиење",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Автоматски пие вода и други пијалоци од ранецот за да ја задоволи жедта",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Надградба за пиење",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Дозволете ги наведените пијалоци (користете шише со вода или кофа за резервоарот за вода)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Блокирајте ги наведените пијалоци (користете шише со вода или кофа за резервоарот за вода)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Пијте секогаш кога лентата за жед не е полна",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Пијте кога може да се искористи барем половина од обновувањето на жедта на пијалокот",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Пијте само кога може да се искористи целата реставрација на жедта на пијалокот",
+  "screen.thirst_was_upgraded.filter_pure_only": "Користете само прочистена вода",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Дозволете вода од секаква чистота"
+}

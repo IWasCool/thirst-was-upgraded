@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drinkverbetering",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drink automatisch water en aandere dranke oet de rugzak um dorst te lesse",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drinkverbetering",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Gebruuk ‘n waterfles of emmer veur tankwater toe)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Dranke die op blokke lies zien (gebruuk un waterfles of emmer veur tankwater)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drink es de dorstbalk neet vol is",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drink es op z’n mins de helf vaan de dorstherstel vaan de drank kin weure gebruuk",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drink allein es alle dorstherstel vaan de drank kin weure gebruuk",
+  "screen.thirst_was_upgraded.filter_pure_only": "Gebruuk allein gezuuverd water",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Laot water vaan welke zuuverheid daan ouch"
+}

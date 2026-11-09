@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Juomapäivitys",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Juo automaattisesti vettä ja muita juomia repusta sammuttaakseen janon",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Juomapäivitys",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Salli luetellut juomat (käytä vesipulloa tai ämpäriä säiliöveden ottamiseen)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Estä luetellut juomat (käytä vesipulloa tai ämpäriä säiliövedelle)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Juo aina, kun janopatukka ei ole täynnä",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Juo, kun vähintään puolet juoman janonpalautuksesta on käytettävissä",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Juo vain, kun juoman koko janopalautus voidaan käyttää",
+  "screen.thirst_was_upgraded.filter_pure_only": "Käytä vain puhdistettua vettä",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Salli vesi minkä tahansa puhtausasteena"
+}

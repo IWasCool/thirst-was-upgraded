@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Nadogradnja za piće",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automatski pije vodu i druga pića iz ranca da utaži žeđ",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Nadogradnja za piće",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Dozvolite navedena pića (koristite flašu vode ili kantu za vodu iz rezervoara)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokirajte navedena pića (koristite flašu vode ili kantu za vodu iz rezervoara)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Pijte kad god bar za žeđ nije pun",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Pijte kada se može iskoristiti najmanje polovina pića koja obnavlja žeđ",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Pijte samo kada se može iskoristiti sva žeđ za piće",
+  "screen.thirst_was_upgraded.filter_pure_only": "Koristite samo prečišćenu vodu",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Dozvolite vodu bilo koje čistoće"
+}

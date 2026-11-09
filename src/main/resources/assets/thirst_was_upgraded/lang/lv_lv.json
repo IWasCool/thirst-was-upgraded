@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Dzeršanas uzlabojums",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automātiski dzer ūdeni un citus dzērienus no mugursomas, lai remdētu slāpes",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Dzeršanas uzlabojums",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Atļaut uzskaitītos dzērienus (izmantojiet ūdens pudeli vai spaini tvertnes ūdenim)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloķēt uzskaitītos dzērienus (izmantojiet ūdens pudeli vai spaini tvertnes ūdenim)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Dzeriet ikreiz, kad slāpju batoniņš nav pilns",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Dzeriet, kad var izmantot vismaz pusi no dzēriena slāpju atjaunošanas",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Dzeriet tikai tad, kad var izmantot visu dzēriena slāpju atjaunošanos",
+  "screen.thirst_was_upgraded.filter_pure_only": "Izmantojiet tikai attīrītu ūdeni",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Ļaujiet jebkuras tīrības ūdenim"
+}

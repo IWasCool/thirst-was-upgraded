@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "An Improvement for Drinking",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Doth drink water and other draughts from thy pack to slake thy thirst",
+  "screen.thirst_was_upgraded.drinking_upgrade": "An Improvement for Drinking",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permit these draughts (use a water bottle or bucket for the cistern)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Forbid these draughts (use a water bottle or bucket for the cistern)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drink whensoever thy thirst bar be not full",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drink when at least half the draught may serve to slake thy thirst",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drink only when the whole draught may serve to slake thy thirst",
+  "screen.thirst_was_upgraded.filter_pure_only": "Use naught but purified water",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permit water of any purity"
+}

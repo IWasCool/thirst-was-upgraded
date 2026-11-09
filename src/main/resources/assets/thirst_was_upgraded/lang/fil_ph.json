@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Pagpapahusay sa Pag-inom",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Awtomatikong umiinom ng tubig at iba pang inumin mula sa backpack para mapawi ang uhaw",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Pagpapahusay sa Pag-inom",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Pahintulutan ang mga nakalistang inumin (gumamit ng bote ng tubig o balde para sa tubig sa tangke)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Harangan ang mga nakalistang inumin (gumamit ng bote ng tubig o balde para sa tubig sa tangke)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Uminom tuwing hindi puno ang uhaw na bar",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Uminom kapag ang hindi bababa sa kalahati ng pagpapanumbalik ng uhaw ng inumin ay maaaring gamitin",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Uminom lamang kapag magagamit ang lahat ng pagpapanumbalik ng uhaw ng inumin",
+  "screen.thirst_was_upgraded.filter_pure_only": "Gumamit lamang ng purified water",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Payagan ang tubig ng anumang kadalisayan"
+}

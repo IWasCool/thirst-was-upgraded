@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.ourcreation.thirst_was_upgraded.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FeedingFilterSettingsMixin",
+    "FeedingUpgradeMixin",
+    "FluidTankItemWrapperMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

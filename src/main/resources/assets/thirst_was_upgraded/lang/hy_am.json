@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Խմելու բարելավում",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Ավտոմատ կերպով ջուր և այլ խմիչքներ է խմում ուսապարկից՝ ծարավը հագեցնելու համար",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Խմելու բարելավում",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Թույլատրել նշված ըմպելիքները (օգտագործեք ջրի շիշ կամ դույլ տանկի ջրի համար)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Արգելափակել նշված ըմպելիքները (օգտագործեք ջրի շիշ կամ դույլ տանկի ջրի համար)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Խմեք, երբ ծարավը լցված չէ",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Խմեք, երբ հնարավոր լինի օգտագործել խմիչքի ծարավը վերականգնելու առնվազն կեսը",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Խմեք միայն այն ժամանակ, երբ հնարավոր լինի օգտագործել ըմպելիքի ամբողջ ծարավը",
+  "screen.thirst_was_upgraded.filter_pure_only": "Օգտագործեք միայն մաքրված ջուր",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Թույլ տվեք ցանկացած մաքրության ջուր"
+}

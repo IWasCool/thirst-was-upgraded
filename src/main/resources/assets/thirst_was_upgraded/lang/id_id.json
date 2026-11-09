@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Peningkatan Minum",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Otomatis meminum air dan minuman lain dari ransel untuk menghilangkan dahaga",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Peningkatan Minum",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Izinkan minuman yang terdaftar (gunakan botol air atau ember untuk air tangki)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokir minuman yang terdaftar (gunakan botol air atau ember untuk air tangki)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Minumlah setiap kali bar haus belum penuh",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Minumlah ketika setidaknya setengah dari minuman pemulihan rasa haus dapat digunakan",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Minumlah hanya ketika semua minuman pemulihan rasa haus dapat digunakan",
+  "screen.thirst_was_upgraded.filter_pure_only": "Gunakan air murni saja",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Izinkan air dengan kemurnian apa pun"
+}

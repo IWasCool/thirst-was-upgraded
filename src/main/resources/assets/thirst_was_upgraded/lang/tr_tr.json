@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "İçme Yükseltmesi",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Susuzluğu gidermek için sırt çantasından otomatik olarak su ve diğer içecekleri içer",
+  "screen.thirst_was_upgraded.drinking_upgrade": "İçme Yükseltmesi",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Listelenen içeceklere izin verin (depo suyu için bir su şişesi veya kova kullanın)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Listelenen içecekleri engelleyin (depo suyu için bir su şişesi veya kova kullanın)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Susama çubuğu dolmadığında iç",
+  "screen.thirst_was_upgraded.filter_half_hydration": "İçeceğin susuzluk giderme oranının en az yarısı kullanılabildiğinde iç",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Yalnızca içeceğin susuzluk giderme özelliğinin tamamı kullanılabildiğinde iç",
+  "screen.thirst_was_upgraded.filter_pure_only": "Yalnızca arıtılmış su kullanın",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Her türlü saflıkta suya izin verin"
+}

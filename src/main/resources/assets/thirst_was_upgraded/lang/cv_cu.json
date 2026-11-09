@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Шыв ӗҫмелли автоматла ҫӗнетӳ",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Ӗҫес килнине лӑплантарма рюкзакран шыв тата ытти ӗҫмелли япаласем хӑй тӗллӗнех ӗҫет",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Шыв ӗҫмелли автоматла ҫӗнетӳ",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Списокра кӑтартнӑ ӗҫмелли япаласене ирӗк парӑр (бак шывӗ валли шыв кӗленчипе е витрепе усӑ курӑр)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Блок списокӗнчи ӗҫмелли япаласем (бак шывӗ валли шыв кӗленчи е витре усӑ курӑр)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Ӗҫес килнӗ чухне ӗҫмелле",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Ӗҫмелле, ӗҫмелли япалан ҫуррине те пулин ӗҫес килнине ҫӗнетме май пур чухне",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Ӗҫме шыв ӗҫес килнине ҫӗнетме май пур чухне ҫеҫ ӗҫмелле",
+  "screen.thirst_was_upgraded.filter_pure_only": "Тасатнӑ шывпа ҫеҫ усӑ курӑр",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Кирек мӗнле тасалӑхлӑ шыв та ярӑр"
+}

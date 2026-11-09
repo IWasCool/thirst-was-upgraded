@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Automáhtalaš čáhcejuhkanođastus",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Juhká automáhtalaččat čázi ja eará juhkamušaid ruoktoseahkas vai beassá čázis čázis",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Automáhtalaš čáhcejuhkanođastus",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Dohkkehit juhkamušaid mat leat čállojuvvon (geavat čáhcebohcci dahje čáhcebohcci)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Juhkamušat mat leat merkejuvvon (geavat čáhcebohcci dahje čáhcebohcci)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Juo goas nu go čáhci ii leat dievva",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Juo dalle go unnimustá bealli juhkamuša čáhcebohccis sáhttá geavahuvvot",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Juoga dušše dalle go buot juhkamuša čáhcebohcciid fas sáhttá geavahit",
+  "screen.thirst_was_upgraded.filter_pure_only": "Geavat dušše buhtistuvvon čázi",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Dohkket čázi vaikko makkár buhtisvuođas"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "ilo pi moku telo",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "ilo li moku e telo tan poki monsi sina li weka e wile telo",
+  "screen.thirst_was_upgraded.drinking_upgrade": "ilo pi moku telo",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "o ken e telo pi lipu ni (o kepeken poki telo tawa telo pi poki suli)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "o ken ala e telo pi lipu ni (o kepeken poki telo tawa telo pi poki suli)",
+  "screen.thirst_was_upgraded.filter_always_drink": "wile telo li lon la o moku telo",
+  "screen.thirst_was_upgraded.filter_half_hydration": "ken kepeken e kipisi suli anu kipisi sama tu pi pona telo la o moku telo",
+  "screen.thirst_was_upgraded.filter_full_hydration": "ken kepeken e pona telo ale la o moku telo",
+  "screen.thirst_was_upgraded.filter_pure_only": "o kepeken telo pi jaki ala taso",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "o ken e telo ale"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Aprimoramento de hidratação",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Bebe automaticamente água e outras bebidas da mochila para matar a sede",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Aprimoramento de hidratação",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permitir bebidas listadas (use uma garrafa de água ou balde para água do tanque)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloquear bebidas listadas (use uma garrafa de água ou balde para água do tanque)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Beba sempre que a barra de sede não estiver cheia",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Beba quando pelo menos metade da restauração da sede da bebida puder ser usada",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Beba somente quando toda a restauração da sede da bebida puder ser usada",
+  "screen.thirst_was_upgraded.filter_pure_only": "Use apenas água purificada",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permitir água de qualquer pureza"
+}

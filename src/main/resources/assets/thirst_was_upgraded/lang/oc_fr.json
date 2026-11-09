@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Melhorament de bevenda",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Beu automaticament d'aiga e d'autras bevendas del dorsièr per apagar la set",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Melhorament de bevenda",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Autorizar las bevendas listadas (utilizatz una botelha d'aiga o un seau per l'aiga de sèrva)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bevendas listadas en blòt (utilizatz una botelha d'aiga o un seau per l'aiga de sèrva)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Beure cada còp que la barra de set es pas plena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Beure quand al mens la mitat de la restauracion de la set de la bevenda pòt èsser utilizada",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Beure sonque quand tota la restauracion de la set de la bevenda pòt èsser utilizada",
+  "screen.thirst_was_upgraded.filter_pure_only": "Utilizar solament d'aiga purificada",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permetre l'aiga de quina puretat que siá"
+}

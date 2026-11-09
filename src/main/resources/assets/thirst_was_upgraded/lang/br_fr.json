@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Gwelladenn evañ",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Evañ a ra ent emgefre dour hag evajoù all eus ar sac'h-kein evit distankañ ar sec'hed",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Gwelladenn evañ",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Aotren an evajoù meneget (implijit ur voutailh dour pe ur pod evit dour ar c'hef)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Evajoù meneget evit ar bloc'hoù (implijit ur voutailh dour pe ur c'hoad evit dour ar c'hef)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Evañ bewech ma ne vez ket leun ar sec'hed",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Evañ pa c'haller implijout an hanter eus adtapout ar sec'hed d'an nebeutañ",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Evañ nemet pa c'haller implijout holl adtapout ar sec'hed an evaj",
+  "screen.thirst_was_upgraded.filter_pure_only": "Implijout dour glanaet hepken",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Lezel dour a bep seurt purded"
+}

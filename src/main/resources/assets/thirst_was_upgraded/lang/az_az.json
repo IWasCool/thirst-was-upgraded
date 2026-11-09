@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "İçmə təkmilləşdirməsi",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Susuzluğu yatırmaq üçün bel çantasından avtomatik olaraq su və digər içkilər içir",
+  "screen.thirst_was_upgraded.drinking_upgrade": "İçmə təkmilləşdirməsi",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Siyahıda göstərilən içkilərə icazə verin (çən suyu üçün su şüşəsi və ya vedrə istifadə edin)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Siyahıda göstərilən içkiləri bloklayın (çən suyu üçün su şüşəsi və ya vedrə istifadə edin)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Susuzluq barı dolmayanda içmək",
+  "screen.thirst_was_upgraded.filter_half_hydration": "İçki susuzluğunun ən azı yarısının bərpası üçün istifadə edilə bilən zaman içmək",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Yalnız içkinin bütün susuzluğunu bərpa etmək mümkün olduqda içmək",
+  "screen.thirst_was_upgraded.filter_pure_only": "Yalnız təmizlənmiş sudan istifadə edin",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "İstənilən təmizlik suyuna icazə verin"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Mellora de bebida",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Bebe automaticamente auga e outras bebidas da mochila para saciar a sede",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Mellora de bebida",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permitir bebidas listadas (usa unha botella de auga ou un balde para a auga do tanque)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloquear bebidas listadas (usa unha botella de auga ou un balde para a auga do tanque)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Beba sempre que a barra da sede non estea chea",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Beba cando se poida usar polo menos a metade da restauración da sede da bebida",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Beba só cando se poida usar toda a restauración da sede da bebida",
+  "screen.thirst_was_upgraded.filter_pure_only": "Use só auga purificada",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permitir auga de calquera pureza"
+}

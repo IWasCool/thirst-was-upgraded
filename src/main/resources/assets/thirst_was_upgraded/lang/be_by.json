@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Паляпшэнне піцця",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Аўтаматычна п'е ваду і іншыя напоі з заплечніка, каб здаволіць смагу",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Паляпшэнне піцця",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Дазволіць пералічаныя напоі (выкарыстоўвайце бутэльку з вадой або вядро для вады ў баку)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Заблакіраваць пералічаныя напоі (выкарыстоўвайце бутэльку з вадой або вядро для вады ў баку)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Піце кожны раз, калі бар смагі не напоўнены",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Выпіце, калі можна выкарыстоўваць хаця б палову напою для аднаўлення смагі",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Піце толькі тады, калі напой можа цалкам супакоіць смагу",
+  "screen.thirst_was_upgraded.filter_pure_only": "Выкарыстоўвайце толькі вычышчаную ваду",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Дапускаецца вада любой чысціні"
+}

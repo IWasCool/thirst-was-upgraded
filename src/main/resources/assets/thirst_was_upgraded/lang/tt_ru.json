@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Эчүне яхшырту",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Сусауны канәгатьләндерү өчен рюкзактан су һәм башка эчемлекләр автоматик рәвештә эчә",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Эчүне яхшырту",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Санап үтелгән эчемлекләргә рөхсәт итегез (су өчен шешә яки чиләк кулланыгыз)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Санап үтелгән эчемлекләрне блоклагыз (танк суы өчен су шешәсе яки чиләк кулланыгыз)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Сусаганлык тулы булмаганда эчегез",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Эчемнең сусавын торгызуның ким дигәндә яртысы кулланылганда эчегез",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Эчемлекнең сусавын торгызу өчен генә кулланыгыз",
+  "screen.thirst_was_upgraded.filter_pure_only": "Чистартылган су гына кулланыгыз",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Төрле чисталык суына рөхсәт итегез"
+}

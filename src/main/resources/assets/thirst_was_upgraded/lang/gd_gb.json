@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Leasachadh Òil",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Ag òl gu fèin-ghluasadach uisge agus deochan eile bhon backpack gus am pathadh a chuir air falbh",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Leasachadh Òil",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Ceadaich deochan clàraichte (cleachd botal uisge no bucaid airson uisge tanca)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Cuir casg air deochan clàraichte (cleachd botal uisge no bucaid airson uisge tanca)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Deoch nuair nach eil am bàr tart làn",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Deoch nuair a ghabhas co-dhiù leth de ath-nuadhachadh tart an deoch a chleachdadh",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Na bi ag òl ach nuair a ghabhas ath-nuadhachadh tart an deoch gu lèir a chleachdadh",
+  "screen.thirst_was_upgraded.filter_pure_only": "Cleachd uisge fìor-ghlan a-mhàin",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Leig le uisge glan sam bith"
+}

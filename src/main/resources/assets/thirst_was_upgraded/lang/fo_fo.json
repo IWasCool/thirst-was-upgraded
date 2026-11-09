@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Sjálvvirkandi vatndrekkandi dagføring",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drekkur sjálvvirkandi vatn og aðrar drykkjuvørur úr ryggsekkinum fyri at sløkkja tostan",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Sjálvvirkandi vatndrekkandi dagføring",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Loyv skrásettum drekkamunni (nýt vatnfløsku ella spann til vatn í tanganum)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokklistað drykkjuvørur (nýt vatnfløsku ella spann til vatn í tanganum)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drekk hvørja ferð tostabarrin ikki er full",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drekk tá minst helvtin av tostaendurnýggjanini hjá drykkinum kann brúkast",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drekk bert tá øll tostaendurnýggjanin í drykkinum kann brúkast",
+  "screen.thirst_was_upgraded.filter_pure_only": "Brúka bert reinsað vatn",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Loyv vatni av øllum reinleika"
+}

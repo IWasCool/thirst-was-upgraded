@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Gėrimo patobulinimas",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automatiškai geria vandenį ir kitus gėrimus iš kuprinės, kad numalšintų troškulį",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Gėrimo patobulinimas",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Leisti išvardintus gėrimus (vandeniui bakelyje naudokite vandens butelį arba kibirą)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokuoti sąraše esančius gėrimus (vandeniui bakelyje naudokite vandens butelį arba kibirą)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Gerkite, kai troškulio batonėlis nėra pilnas",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Gerkite, kai galima panaudoti bent pusę gėrimo troškulio atstatymo",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Gerkite tik tada, kai bus panaudotas visas gėrimo troškulio atstatymas",
+  "screen.thirst_was_upgraded.filter_pure_only": "Naudokite tik išvalytą vandenį",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Leiskite bet kokio grynumo vandeniui"
+}

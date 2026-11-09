@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "飲水升級",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "自飲背囊之水及諸解渴之飲",
+  "screen.thirst_was_upgraded.drinking_upgrade": "飲水升級",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "許所列之飲（水槽之水，以水瓶或桶為準）",
+  "screen.thirst_was_upgraded.filter_block_drinks": "禁所列之飲（水槽之水，以水瓶或桶為準）",
+  "screen.thirst_was_upgraded.filter_always_drink": "渴值未滿即飲",
+  "screen.thirst_was_upgraded.filter_half_hydration": "飲之解渴之效可用半數以上乃飲",
+  "screen.thirst_was_upgraded.filter_full_hydration": "飲之解渴之效可盡用乃飲",
+  "screen.thirst_was_upgraded.filter_pure_only": "唯用淨水",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "水無論潔濁皆許"
+}

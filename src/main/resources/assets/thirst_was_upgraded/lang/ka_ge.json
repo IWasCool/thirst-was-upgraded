@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "სმის გაუმჯობესება",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "წყურვილის მოსაკლავად ავტომატურად სვამს წყალს და სხვა სასმელებს ზურგჩანთიდან",
+  "screen.thirst_was_upgraded.drinking_upgrade": "სმის გაუმჯობესება",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "დაუშვით ჩამოთვლილი სასმელები (გამოიყენეთ წყლის ბოთლი ან ვედრო სატანკო წყლისთვის)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "დაბლოკეთ ჩამოთვლილი სასმელები (გამოიყენეთ წყლის ბოთლი ან ვედრო სატანკო წყლისთვის)",
+  "screen.thirst_was_upgraded.filter_always_drink": "დალიეთ, როცა წყურვილის ბარი სავსე არ არის",
+  "screen.thirst_was_upgraded.filter_half_hydration": "დალიეთ, როდესაც სასმელის წყურვილის აღდგენის ნახევარი მაინც იქნება გამოყენებული",
+  "screen.thirst_was_upgraded.filter_full_hydration": "დალიეთ მხოლოდ მაშინ, როდესაც სასმელის მთელი წყურვილის აღდგენა შესაძლებელია",
+  "screen.thirst_was_upgraded.filter_pure_only": "გამოიყენეთ მხოლოდ გაწმენდილი წყალი",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "დაუშვით ნებისმიერი სისუფთავის წყალი"
+}

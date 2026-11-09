@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Αναβάθμιση πόσης",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Πίνει αυτόματα νερό και άλλα ποτά από το σακίδιο για να ξεδιψάσει",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Αναβάθμιση πόσης",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Να επιτρέπονται τα αναγραφόμενα ποτά (χρησιμοποιήστε ένα μπουκάλι νερό ή έναν κουβά για το νερό της δεξαμενής)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Αποκλεισμός αναγραφόμενων ποτών (χρησιμοποιήστε ένα μπουκάλι νερό ή έναν κουβά για το νερό της δεξαμενής)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Πίνετε όποτε η μπάρα δίψας δεν είναι γεμάτη",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Πίνετε όταν μπορείτε να χρησιμοποιήσετε τουλάχιστον το ήμισυ της αποκατάστασης της δίψας του ποτού",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Πίνετε μόνο όταν μπορείτε να χρησιμοποιήσετε όλη την αποκατάσταση της δίψας του ποτού",
+  "screen.thirst_was_upgraded.filter_pure_only": "Χρησιμοποιήστε μόνο καθαρό νερό",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Αφήστε νερό οποιασδήποτε καθαρότητας"
+}

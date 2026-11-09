@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Ichish takomillashtirmasi",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Chanqoqni qondirish uchun ryukzakdagi suv va boshqa ichimliklarni avtomatik ravishda ichadi",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Ichish takomillashtirmasi",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Ro'yxatdagi ichimliklarga ruxsat bering (suv idishi uchun idish yoki chelakdan foydalaning)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Ro'yxatdagi ichimliklarni blokirovka qilish (suv idishi uchun idish yoki chelakdan foydalaning)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Chanqoq bari to'liq bo'lmasa, iching",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Ichimlikning kamida yarmini chanqoqni tiklashdan foydalanish mumkin bo'lganda iching",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Ichimlikning barcha chanqog'ini tiklash mumkin bo'lgandagina iching",
+  "screen.thirst_was_upgraded.filter_pure_only": "Faqat tozalangan suvdan foydalaning",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Har qanday toza suvga ruxsat bering"
+}

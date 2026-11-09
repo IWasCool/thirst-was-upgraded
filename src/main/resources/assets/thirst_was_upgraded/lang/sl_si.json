@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Nadgradnja za pitje",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Samodejno pije vodo in druge pijače iz nahrbtnika za odžejanje",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Nadgradnja za pitje",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Dovolite navedene pijače (uporabite steklenico z vodo ali vedro za vodo v rezervoarju)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokirajte pijače s seznama (uporabite steklenico vode ali vedro za vodo v rezervoarju)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Pijte vedno, ko ploščica za žejo ni polna",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Pijte, ko lahko porabite vsaj polovico pijače za odžejanje",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Pijte šele, ko lahko porabite vso pijačo za obnovo žeje",
+  "screen.thirst_was_upgraded.filter_pure_only": "Uporabljajte samo prečiščeno vodo",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Dovolite vodo katere koli čistosti"
+}

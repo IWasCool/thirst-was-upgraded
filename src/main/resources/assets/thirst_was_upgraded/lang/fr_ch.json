@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Amélioration d’hydratation",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Boit automatiquement de l’eau et d’autres boissons du sac à dos pour étancher la soif",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Amélioration d’hydratation",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Autoriser les boissons de la liste (utilisez une bouteille d’eau ou un seau pour filtrer l’eau du réservoir)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloquer les boissons de la liste (utilisez une bouteille d’eau ou un seau pour filtrer l’eau du réservoir)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Boire lorsque la barre de soif n’est pas pleine",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Boire si au moins la moitié de l’hydratation de la boisson peut être utilisée",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Boire uniquement si toute l’hydratation de la boisson peut être utilisée",
+  "screen.thirst_was_upgraded.filter_pure_only": "Utiliser uniquement de l’eau purifiée",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Autoriser l’eau quel que soit son degré de pureté"
+}

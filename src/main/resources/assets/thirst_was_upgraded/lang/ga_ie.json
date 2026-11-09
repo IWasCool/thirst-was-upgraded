@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Uasghrádú Óil",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Ólann sé go huathoibríoch uisce agus deochanna eile as an backpack chun tart a scor",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Uasghrádú Óil",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Ceadaigh deochanna liostaithe (bain úsáid as buidéal uisce nó buicéad le haghaidh uisce umar)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Cuir bac ar dheochanna liostaithe (bain úsáid as buidéal uisce nó buicéad le haghaidh uisce umar)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Ól aon uair nach mbíonn an barra tart lán",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Dí nuair is féidir ar a laghad leath d'athchóiriú tart an dí a úsáid",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Ól ach amháin nuair is féidir úsáid a bhaint as athchóiriú tart an dí ar fad",
+  "screen.thirst_was_upgraded.filter_pure_only": "Bain úsáid as uisce íonaithe amháin",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Ceadaigh uisce d'aon íonacht"
+}

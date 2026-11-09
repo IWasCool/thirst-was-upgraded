@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "DRINKIN UPGRAED",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "DRINKZ WATR AN OTHR DRINKZ FRUM UR BAKPAK TO FIX TEH THIRST",
+  "screen.thirst_was_upgraded.drinking_upgrade": "DRINKIN UPGRAED",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "LET DESE DRINKZ IN (USE WATR BOTL OR BUKKIT FER TANK WATR)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "NO DESE DRINKZ (USE WATR BOTL OR BUKKIT FER TANK WATR)",
+  "screen.thirst_was_upgraded.filter_always_drink": "DRINK WEN UR THIRST BAR IZ NOT FULL",
+  "screen.thirst_was_upgraded.filter_half_hydration": "DRINK WEN AT LEEST HALF TEH THIRST HEALZ CAN BE UZED",
+  "screen.thirst_was_upgraded.filter_full_hydration": "DRINK ONLY WEN ALL TEH THIRST HEALZ CAN BE UZED",
+  "screen.thirst_was_upgraded.filter_pure_only": "CLEAN WATR ONLY PLZ",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "ANY WATR IZ OK"
+}

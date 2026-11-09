@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Уу иһэр автоматическай саҥардыы",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Рюкзактан ууну уонна атын утахтары автоматически иһэр, уутун туоратарга",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Уу иһэр автоматическай саҥардыы",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Испииһэккэ киирбит утахтары көҥүллээҥ (бак уутугар уу бытыылкатын эбэтэр биэдэрэни туттуҥ)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Блок испииһэгэр киирбит утахтар (бак уутугар уу бытыылкатын эбэтэр биэдэрэни туттуҥ)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Утах баара туолбатаҕына иһиҥ",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Иһэр, иһит уута суох буолуутун чөлүгэр түһэрэр кырата аҥарын туһаныахха сөп буоллаҕына",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Иһэр эрэ иһит, утах уутун чөлүгэр түһэрэр ньыманы барытын туһаныахха сөп буоллаҕына",
+  "screen.thirst_was_upgraded.filter_pure_only": "Ыраастаммыт ууну эрэ туттуҥ",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Ханнык баҕарар ыраас ууну көҥүллээҥ"
+}

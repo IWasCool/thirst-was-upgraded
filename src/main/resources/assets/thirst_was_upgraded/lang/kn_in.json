@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "ಕುಡಿಯುವ ಸುಧಾರಣೆ",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "ಬಾಯಾರಿಕೆಯನ್ನು ನೀಗಿಸಲು ಬೆನ್ನುಹೊರೆಯಿಂದ ನೀರು ಮತ್ತು ಇತರ ಪಾನೀಯಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕುಡಿಯುತ್ತದೆ",
+  "screen.thirst_was_upgraded.drinking_upgrade": "ಕುಡಿಯುವ ಸುಧಾರಣೆ",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "ಪಟ್ಟಿ ಮಾಡಲಾದ ಪಾನೀಯಗಳನ್ನು ಅನುಮತಿಸಿ (ಟ್ಯಾಂಕ್ ನೀರಿಗಾಗಿ ನೀರಿನ ಬಾಟಲ್ ಅಥವಾ ಬಕೆಟ್ ಬಳಸಿ)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "ಪಟ್ಟಿ ಮಾಡಲಾದ ಪಾನೀಯಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ (ಟ್ಯಾಂಕ್ ನೀರಿಗಾಗಿ ನೀರಿನ ಬಾಟಲಿ ಅಥವಾ ಬಕೆಟ್ ಬಳಸಿ)",
+  "screen.thirst_was_upgraded.filter_always_drink": "ಬಾಯಾರಿಕೆ ಬಾರ್ ಪೂರ್ಣವಾಗಿರದಿದ್ದಾಗ ಕುಡಿಯಿರಿ",
+  "screen.thirst_was_upgraded.filter_half_hydration": "ಪಾನೀಯದ ಕನಿಷ್ಠ ಅರ್ಧದಷ್ಟು ಬಾಯಾರಿಕೆ ಪುನಃಸ್ಥಾಪನೆಯನ್ನು ಬಳಸಿದಾಗ ಕುಡಿಯಿರಿ",
+  "screen.thirst_was_upgraded.filter_full_hydration": "ಪಾನೀಯದ ಎಲ್ಲಾ ಬಾಯಾರಿಕೆ ಮರುಸ್ಥಾಪನೆಯನ್ನು ಬಳಸಿದಾಗ ಮಾತ್ರ ಕುಡಿಯಿರಿ",
+  "screen.thirst_was_upgraded.filter_pure_only": "ಶುದ್ಧೀಕರಿಸಿದ ನೀರನ್ನು ಮಾತ್ರ ಬಳಸಿ",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "ಯಾವುದೇ ಶುದ್ಧತೆಯ ನೀರನ್ನು ಅನುಮತಿಸಿ"
+}

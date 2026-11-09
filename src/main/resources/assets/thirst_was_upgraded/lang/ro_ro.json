@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Îmbunătățire pentru băut",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Bea automat apă și alte băuturi din rucsac pentru a potoli setea",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Îmbunătățire pentru băut",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permiteți băuturile listate (utilizați o sticlă de apă sau o găleată pentru apă din rezervor)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blocați băuturile listate (utilizați o sticlă de apă sau o găleată pentru apă din rezervor)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Bea ori de câte ori barul de sete nu este plin",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Bea atunci când cel puțin jumătate din restabilirea setei băuturii poate fi folosită",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Se bea numai atunci când se poate folosi toată refacerea setei băuturii",
+  "screen.thirst_was_upgraded.filter_pure_only": "Utilizați numai apă purificată",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permiteți apă de orice puritate"
+}

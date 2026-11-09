@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Joomise täiustus",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Joob janu kustutamiseks automaatselt seljakotist vett ja muid jooke",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Joomise täiustus",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Lubage loetletud joogid (kasutage paagivee jaoks veepudelit või ämbrit)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokeeri loetletud joogid (kasutage paagivee jaoks veepudelit või ämbrit)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Joo alati, kui janupulk pole täis",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Joo siis, kui saab kasutada vähemalt poole joogi janu taastumisest",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Jooge ainult siis, kui joogi janu saab ära kasutada",
+  "screen.thirst_was_upgraded.filter_pure_only": "Kasutage ainult puhastatud vett",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Lubage mis tahes puhtusastmega vett"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Автоматик һыу эсеү яңыртыу",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Һыуһын баҫыу өсөн рюкзактан автоматик рәүештә һыу һәм башҡа эсемлектәр эсә .",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Автоматик һыу эсеү яңыртыу",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Рөхсәт ителгән исемлектәге эсемлектәр (һыу шешәһе йәки биҙрә ҡулланыу өсөн бак һыу)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Блок исемлегенә индерелгән эсемлектәр (һыу шешәһе йәки биҙрә ҡулланыу өсөн бак һыу)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Эсергә ҡасан һыуһау бар тулы түгел .",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Эсеү ҡасан кәмендә яртыһы эсемлек&#8217;ы һыуһау тергеҙеү ҡулланырға мөмкин .",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Эсергә генә ҡасан бөтә эсемлек&#8217;ы һыуһау тергеҙеү ҡулланырға мөмкин",
+  "screen.thirst_was_upgraded.filter_pure_only": "Таҙартылған һыуҙы ғына ҡулланығыҙ .",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Һыуҙы теләһә ниндәй таҙалыҡта рөхсәт итегеҙ"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Ичүү жакшыртуусу",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Чаңкоону кандыруу үчүн рюкзактан суу жана башка суусундуктарды автоматтык түрдө ичет",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Ичүү жакшыртуусу",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Тизмеде көрсөтүлгөн суусундуктарга уруксат берүү (суу бөтөлкөсүн же чакадагы сууну колдонуңуз)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Тизмеде көрсөтүлгөн суусундуктарды бөгөттөө (суу үчүн бөтөлкө же чаканы колдонуңуз)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Суусаган тилке толбогон сайын ичиңиз",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Суусундуктун суусаганын калыбына келтирүүнүн жок дегенде жарымын колдонсо болот",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Суусундуктун бардык суусундугун калыбына келтирүүгө мүмкүн болгондо гана ичиңиз",
+  "screen.thirst_was_upgraded.filter_pure_only": "Тазаланган сууну гана колдонуңуз",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Ар кандай тазалыктагы сууга уруксат бериңиз"
+}

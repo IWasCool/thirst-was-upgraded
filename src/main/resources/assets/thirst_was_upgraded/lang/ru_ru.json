@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Улучшение питья",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Автоматически пьёт воду и другие напитки из рюкзака, чтобы утолить жажду",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Улучшение питья",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Разрешать напитки из списка (для фильтрации воды в баках используйте бутылочку воды или ведро)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Запрещать напитки из списка (для фильтрации воды в баках используйте бутылочку воды или ведро)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Пить, когда шкала жажды заполнена не полностью",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Пить, если можно использовать не менее половины утоляющего жажду эффекта напитка",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Пить, только если можно полностью использовать утоляющий жажду эффект напитка",
+  "screen.thirst_was_upgraded.filter_pure_only": "Использовать только очищенную воду",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Разрешать воду любой чистоты"
+}

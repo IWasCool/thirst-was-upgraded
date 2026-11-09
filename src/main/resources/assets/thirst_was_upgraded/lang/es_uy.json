@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Mejora de hidratación",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Bebe automáticamente agua y otras bebidas de la mochila para calmar la sed",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Mejora de hidratación",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permitir las bebidas de la lista (usa una botella de agua o un cubo para filtrar el agua del depósito)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloquear las bebidas de la lista (usa una botella de agua o un cubo para filtrar el agua del depósito)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Beber cuando la barra de sed no esté llena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Beber cuando se pueda aprovechar al menos la mitad de la hidratación de la bebida",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Beber solo cuando se pueda aprovechar toda la hidratación de la bebida",
+  "screen.thirst_was_upgraded.filter_pure_only": "Usar solo agua purificada",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permitir agua de cualquier pureza"
+}

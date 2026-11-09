@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "ǝpɐɹƃd∩ ƃuᴉʞuᴉɹᗡ",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "ʇsɹᴉɥʇ ɥɔuǝnb oʇ ʞɔɐdʞɔɐq ǝɥʇ ɯoɹɟ sʞuᴉɹp ɹǝɥʇo puɐ ɹǝʇɐʍ sʞuᴉɹp ʎʃʃɐɔᴉʇɐɯoʇn∀",
+  "screen.thirst_was_upgraded.drinking_upgrade": "ǝpɐɹƃd∩ ƃuᴉʞuᴉɹᗡ",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "(ɹǝʇɐʍ ʞuɐʇ ɹoɟ ʇǝʞɔnq ɹo ǝʃʇʇoq ɹǝʇɐʍ ɐ ǝsn) sʞuᴉɹp pǝʇsᴉʃ ʍoʃʃ∀",
+  "screen.thirst_was_upgraded.filter_block_drinks": "(ɹǝʇɐʍ ʞuɐʇ ɹoɟ ʇǝʞɔnq ɹo ǝʃʇʇoq ɹǝʇɐʍ ɐ ǝsn) sʞuᴉɹp pǝʇsᴉʃ ʞɔoʃ𐐒",
+  "screen.thirst_was_upgraded.filter_always_drink": "ʃʃnɟ ʇou sᴉ ɹɐq ʇsɹᴉɥʇ ǝɥʇ ɹǝʌǝuǝɥʍ ʞuᴉɹᗡ",
+  "screen.thirst_was_upgraded.filter_half_hydration": "pǝsn ǝq uɐɔ uoᴉʇɐɹoʇsǝɹ ʇsɹᴉɥʇ s,ʞuᴉɹp ǝɥʇ ɟo ɟʃɐɥ ʇsɐǝʃ ʇɐ uǝɥʍ ʞuᴉɹᗡ",
+  "screen.thirst_was_upgraded.filter_full_hydration": "pǝsn ǝq uɐɔ uoᴉʇɐɹoʇsǝɹ ʇsɹᴉɥʇ s,ʞuᴉɹp ǝɥʇ ɟo ʃʃɐ uǝɥʍ ʎʃuo ʞuᴉɹᗡ",
+  "screen.thirst_was_upgraded.filter_pure_only": "ʎʃuo ɹǝʇɐʍ pǝᴉɟᴉɹnd ǝs∩",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "ʎʇᴉɹnd ʎuɐ ɟo ɹǝʇɐʍ ʍoʃʃ∀"
+}

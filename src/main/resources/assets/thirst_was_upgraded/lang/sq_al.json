@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Përmirësim për pirje",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Pi automatikisht ujë dhe pije të tjera nga çanta e shpinës për të shuar etjen",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Përmirësim për pirje",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Lejo pijet e listuara (përdorni një shishe uji ose kovë për ujin e rezervuarit)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blloko pijet e listuara (përdorni një shishe uji ose kovë për ujin e rezervuarit)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Pini sa herë që bari i etjes nuk është plot",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Pini kur mund të përdoret të paktën gjysma e restaurimit të etjes",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Pini vetëm kur të mund të përdoret i gjithë rikthimi i etjes",
+  "screen.thirst_was_upgraded.filter_pure_only": "Përdorni vetëm ujë të pastruar",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Lejoni ujë të çdo pastërtie"
+}

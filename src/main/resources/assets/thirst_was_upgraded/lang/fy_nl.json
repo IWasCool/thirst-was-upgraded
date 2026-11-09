@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Drinkferbettering",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Drinkt automatysk wetter en oare dranken út 'e rêchsek om toarst te lessen",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Drinkferbettering",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Tastean neamde dranken (brûk in wetterflesse of emmer foar tankwetter)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokkearde dranken (brûk in wetterflesse of emmer foar tankwetter)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Drink as de toarstbar net fol is",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Drink as op syn minst de helte fan 'e toarst restauraasje fan' e drank brûkt wurde kin",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Drink allinich as alle restauraasje fan 'e toarst kin brûkt wurde",
+  "screen.thirst_was_upgraded.filter_pure_only": "Brûk allinich suvere wetter",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Tastean wetter fan elke suverens"
+}

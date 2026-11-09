@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Ivófejlesztés",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automatikusan vizet és egyéb italokat iszik a hátizsákból a szomjúság oltására",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Ivófejlesztés",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Engedélyezze a felsorolt italokat (használjon kulacsot vagy vödröt a tartályvízhez)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Tiltsa le a listán szereplő italokat (használjon kulacsot vagy vödröt a tartályvízhez)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Igyon, amikor a szomjúságrúd nincs tele",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Akkor igya, ha az ital szomjúságérzetének legalább a fele felhasználható",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Csak akkor igyon, ha az ital összes szomjúságjavítója felhasználható",
+  "screen.thirst_was_upgraded.filter_pure_only": "Csak tisztított vizet használjon",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Engedjen be bármilyen tisztaságú vizet"
+}

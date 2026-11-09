@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Melioratio bibendi",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automatice aquam bibit et alius e mantica ad sitim restinguendam bibit",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Melioratio bibendi",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Liceat recensentur drinks (utar aqua utrem vel situla in piscinam aqua)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Obstructionum drinks enumerantur (utar aqua utrem vel situla ad piscinam aqua)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Quotiens bibe sitis non est plena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Bibere quando saltem dimidium siti potus refectionis adhiberi potest",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Potus modo cum omnis siti potus restitutio adhiberi potest",
+  "screen.thirst_was_upgraded.filter_pure_only": "Utere aqua tantum purificatus",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Patitur aqua puritatis"
+}

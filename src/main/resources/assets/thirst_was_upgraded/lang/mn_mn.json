@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Уух сайжруулалт",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Цангаагаа тайлахын тулд үүргэвчнээсээ ус болон бусад ундааг автоматаар ууна",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Уух сайжруулалт",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Жагсаалтад орсон ундаануудыг зөвшөөрнө үү (усны сав эсвэл хувин ашиглана уу)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Жагсаалтад орсон ундааг хориглох (усны сав эсвэл хувин ашиглах)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Цангах сав дүүрээгүй үед ууна",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Ундааны цангааг сэргээхэд дор хаяж хагасыг нь хэрэглэж болох үед ууна",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Ундны бүх цангааг сэргээх боломжтой үед л ууна",
+  "screen.thirst_was_upgraded.filter_pure_only": "Зөвхөн цэвэршүүлсэн ус хэрэглээрэй",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Ямар ч цэвэр ус уухыг зөвшөөрнө үү"
+}

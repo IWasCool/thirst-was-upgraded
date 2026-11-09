@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Migliorament automatico de la bevanda de l’aqua",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Bef automaticamente aqua e olter bevand del zaino per calmar la sete",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Migliorament automatico de la bevanda de l’aqua",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permett i bevand elencà (dupera una buttiglia d’aqua o un secch per l’aqua del serbatoio)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bevand blocà (dupera una buttiglia d’aqua o un secch per l’aqua del serbatoio)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Bef quand che la barra de la sete l’è minga piena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Bef quand almen la mità del restaur de la sete de la bevanda pœu vèss duperada",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Bef sultant quand tüt el restaur de la sete de la bevanda pœu vèss duperà",
+  "screen.thirst_was_upgraded.filter_pure_only": "Dupera sultant aqua purificada",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Lassar l’aqua de qual-sa-vöör pureza"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "טרינק־פֿאַרבעסערונג",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "אָטאַמאַטיק טרינקען וואַסער און אנדערע טרינקען פון די באַקפּאַק צו שטילן דאָרשט",
+  "screen.thirst_was_upgraded.drinking_upgrade": "טרינק־פֿאַרבעסערונג",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "לאָזן ליסטעד טרינקען (נוצן אַ וואַסער פלאַש אָדער עמער פֿאַר טאַנק וואַסער)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "פאַרשפּאַרן ליסטעד טרינקען (נוצן אַ וואַסער פלאַש אָדער עמער פֿאַר טאַנק וואַסער)",
+  "screen.thirst_was_upgraded.filter_always_drink": "טרינקען ווען דער דאָרשט באַר איז נישט פול",
+  "screen.thirst_was_upgraded.filter_half_hydration": "טרינקען ווען בייַ מינדסטער האַלב פון די דאָרשט רעסטעריישאַן קענען זיין געוויינט",
+  "screen.thirst_was_upgraded.filter_full_hydration": "טרינקען בלויז ווען אַלע די דאָרשט רעסטעריישאַן פון די טרינקען קענען זיין געוויינט",
+  "screen.thirst_was_upgraded.filter_pure_only": "ניצן בלויז פּיוראַפייד וואַסער",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "לאָזן וואַסער פון קיין ריינקייַט"
+}

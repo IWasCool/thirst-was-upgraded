@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Titjib tax-Xorb",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Awtomatikament tixrob ilma u xorb ieħor mill-backpack biex jaqta 'l-għatx",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Titjib tax-Xorb",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Ippermetti xorb elenkat (uża flixkun tal-ilma jew barmil għall-ilma tat-tank)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Imblokka xarbiet elenkati (uża flixkun tal-ilma jew barmil għall-ilma tat-tank)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Ixrob kull meta l-bar tal-għatx ma jkunx mimli",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Ixrob meta mill-inqas nofs ir-restawr tal-għatx tax-xarba jista 'jintuża",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Ixrob biss meta r-restawr kollu tal-għatx tax-xarba jista 'jintuża",
+  "screen.thirst_was_upgraded.filter_pure_only": "Uża ilma purifikat biss",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Ħalli ilma ta 'kwalunkwe purità"
+}

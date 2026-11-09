@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "שדרוג שתייה",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "שותה אוטומטית מים ומשקאות אחרים מהתרמיל כדי להרוות את הצמא",
+  "screen.thirst_was_upgraded.drinking_upgrade": "שדרוג שתייה",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "אפשר משקאות רשומים (השתמש בבקבוק מים או דלי למיכל מים)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "חסימת משקאות הרשומים (השתמש בבקבוק מים או דלי למיכל מים)",
+  "screen.thirst_was_upgraded.filter_always_drink": "שתו בכל פעם שבר הצמא לא מלא",
+  "screen.thirst_was_upgraded.filter_half_hydration": "שתו כאשר ניתן להשתמש לפחות במחצית משחזור הצמא של המשקה",
+  "screen.thirst_was_upgraded.filter_full_hydration": "שתו רק כאשר ניתן להשתמש בכל שיקום הצמא של המשקה",
+  "screen.thirst_was_upgraded.filter_pure_only": "השתמש במים מטוהרים בלבד",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "אפשר מים מכל טוהר"
+}

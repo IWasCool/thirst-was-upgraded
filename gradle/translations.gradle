@@ -1,0 +1,75 @@
+// Keep every supported locale complete before packaging resources.
+def catalogueFile = layout.projectDirectory.file('tools/localization/minecraft-languages.json')
+def languageFiles = fileTree('src/main/resources/assets/thirst_was_upgraded/lang') {
+    include '*.json'
+}
+
+def validateTranslations = tasks.register('validateTranslations') {
+    group = 'verification'
+    description = 'Validate language coverage, keys, values, and formatting arguments.'
+    inputs.file(catalogueFile).withPathSensitivity(PathSensitivity.RELATIVE)
+    inputs.files(languageFiles).withPathSensitivity(PathSensitivity.RELATIVE)
+
+    doLast {
+        def catalogue = new groovy.json.JsonSlurper().parseText(catalogueFile.asFile.getText('UTF-8'))
+        def expectedLocales = catalogue.languages.keySet() as Set
+        def files = inputs.files.files.findAll { it.parentFile.name == 'lang' }
+        def actualLocales = files.collect { it.name - '.json' } as Set
+        def problems = []
+        def missingLocales = expectedLocales - actualLocales
+        def extraLocales = actualLocales - expectedLocales
+        if (missingLocales) problems.add("Missing languages: ${missingLocales.sort()}")
+        if (extraLocales) problems.add("Unlisted languages: ${extraLocales.sort()}")
+
+        def formatArguments = { String value ->
+            int nextArgument = 0
+            def arguments = []
+            def matcher = value.replace('%%', '') =~ /%(?:(\d+)\$)?([sd])/
+            matcher.each { match ->
+                int index = match[1] ? match[1].toInteger() : ++nextArgument
+                arguments.add("${index}:${match[2]}".toString())
+            }
+            arguments.sort()
+        }
+
+        def translations = [:]
+        files.each { file ->
+            try {
+                def data = new groovy.json.JsonSlurper().parseText(file.getText('UTF-8'))
+                if (!(data instanceof Map)) {
+                    problems.add("${file.name}: expected a JSON object")
+                } else {
+                    translations[file.name - '.json'] = data
+                }
+            } catch (Exception exception) {
+                problems.add("${file.name}: invalid JSON (${exception.message})")
+            }
+        }
+
+        def english = translations.en_us
+        if (english == null || english.isEmpty()) {
+            problems.add('Missing or empty en_us.json reference')
+        } else {
+            translations.each { locale, data ->
+                def missingKeys = english.keySet() - data.keySet()
+                def extraKeys = data.keySet() - english.keySet()
+                if (missingKeys) problems.add("${locale}: missing keys ${missingKeys.sort()}")
+                if (extraKeys) problems.add("${locale}: unknown keys ${extraKeys.sort()}")
+                data.each { key, value ->
+                    if (!(value instanceof String) || value.isBlank() || value.contains('\uFFFD')) {
+                        problems.add("${locale}: invalid or empty value for ${key}")
+                    } else if (english[key] instanceof String
+                            && formatArguments(value) != formatArguments(english[key])) {
+                        problems.add("${locale}: formatting arguments differ for ${key}")
+                    }
+                }
+            }
+        }
+
+        if (problems) throw new GradleException('Translation validation failed:\n' + problems.sort().join('\n'))
+        logger.lifecycle("Validated ${expectedLocales.size()} languages with ${english.size()} strings each.")
+    }
+}
+
+tasks.named('check') { dependsOn validateTranslations }
+tasks.named('processResources') { dependsOn validateTranslations }

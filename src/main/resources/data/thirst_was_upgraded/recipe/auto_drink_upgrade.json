@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "travelersbackpack:blank_upgrade"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "W": {
+      "type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "potion_contents": {
+          "potion": "minecraft:water"
+        }
+      }
+    }
+  },
+  "pattern": [
+    " W ",
+    "RBR",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "thirst_was_upgraded:auto_drink_upgrade"
+  }
+}

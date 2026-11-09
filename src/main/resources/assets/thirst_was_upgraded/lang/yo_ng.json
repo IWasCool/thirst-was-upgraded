@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Laifọwọyi Omi Mimu Igbesoke",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Laifọwọyi mu omi ati awọn ohun mimu miiran lati apoeyin lati pa ongbẹ",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Laifọwọyi Omi Mimu Igbesoke",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Gba awọn ohun mimu ti a ṣe akojọ (lo igo omi tabi garawa fun omi ojò)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Dina awọn ohun mimu ti a ṣe akojọ (lo igo omi tabi garawa fun omi ojò)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Mu nigbakugba ti ọti ongbẹ ko kun",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Mu nigba ti o kere ju idaji ti mimu-pada sipo ongbẹ mimu le ṣee lo",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Mu nikan nigbati gbogbo imupadabọ ongbẹ ongbẹ ohun mimu le ṣee lo",
+  "screen.thirst_was_upgraded.filter_pure_only": "Lo omi mimọ nikan",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Gba omi eyikeyi mimọ"
+}

@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Meyora pa beber",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Bebe automáticamente agua y otres bebíes de la mochila pa quitar la sede",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Meyora pa beber",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Permitir les bebíes de la llista (usa una botella d'agua o un calderu pal agua del depósitu)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Bloquiar les bebíes de la llista (usa una botella d'agua o un calderu pal agua del depósitu)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Beber cuando la barra de sede nun tea enllena",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Beber cuando se puea aprovechar polo menos la metá de la hidratación de la bebida",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Beber namás cuando se puea aprovechar tola hidratación de la bebida",
+  "screen.thirst_was_upgraded.filter_pure_only": "Usar namás agua purificao",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Permitir agua de cualquier pureza"
+}

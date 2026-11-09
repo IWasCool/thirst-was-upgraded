@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "飲水アップグレード",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "バックパック内の水やその他の飲み物を自動で飲み、喉の渇きを潤します",
+  "screen.thirst_was_upgraded.drinking_upgrade": "飲水アップグレード",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "リスト内の飲み物を許可（タンクの水は水入り瓶か水入りバケツで指定）",
+  "screen.thirst_was_upgraded.filter_block_drinks": "リスト内の飲み物を禁止（タンクの水は水入り瓶か水入りバケツで指定）",
+  "screen.thirst_was_upgraded.filter_always_drink": "水分ゲージが満タンでないときに飲む",
+  "screen.thirst_was_upgraded.filter_half_hydration": "飲み物の回復量の半分以上を活かせるときに飲む",
+  "screen.thirst_was_upgraded.filter_full_hydration": "飲み物の回復量をすべて活かせるときだけ飲む",
+  "screen.thirst_was_upgraded.filter_pure_only": "浄化した水のみ使用",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "純度に関係なく水を許可"
+}

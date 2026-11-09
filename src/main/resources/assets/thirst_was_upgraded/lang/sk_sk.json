@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Vylepšenie pitia",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Automaticky pije vodu a iné nápoje z batohu na uhasenie smädu",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Vylepšenie pitia",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Povoliť uvedené nápoje (použite fľašu s vodou alebo vedro na vodu v nádrži)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Blokujte uvedené nápoje (použite fľašu s vodou alebo vedro na vodu v nádrži)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Pite vždy, keď smäd nie je plný",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Pite, keď môžete použiť aspoň polovicu nápoja na obnovenie smädu",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Pite len vtedy, keď môžete využiť všetku regeneráciu smädu",
+  "screen.thirst_was_upgraded.filter_pure_only": "Používajte iba čistenú vodu",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Nechajte vodu akejkoľvek čistoty"
+}

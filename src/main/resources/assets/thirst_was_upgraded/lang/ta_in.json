@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "குடிக்கும் மேம்பாடு",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "தாகத்தைத் தணிக்க பையிலிருந்த தண்ணீர் மற்றும் பிற பானங்களை தானாகவே குடிக்கும்",
+  "screen.thirst_was_upgraded.drinking_upgrade": "குடிக்கும் மேம்பாடு",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "பட்டியலிடப்பட்ட பானங்களை அனுமதிக்கவும் (தொட்டி தண்ணீருக்கு தண்ணீர் பாட்டில் அல்லது வாளியைப் பயன்படுத்தவும்)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "பட்டியலிடப்பட்ட பானங்களைத் தடுக்கவும் (தொட்டி தண்ணீருக்கு தண்ணீர் பாட்டில் அல்லது வாளியைப் பயன்படுத்தவும்)",
+  "screen.thirst_was_upgraded.filter_always_drink": "தாகம் பட்டை நிரம்பாத போதெல்லாம் குடிக்கவும்",
+  "screen.thirst_was_upgraded.filter_half_hydration": "பானத்தின் தாகத்தை மீட்டெடுப்பதில் குறைந்தது பாதியைப் பயன்படுத்தும்போது குடிக்கவும்",
+  "screen.thirst_was_upgraded.filter_full_hydration": "பானத்தின் அனைத்து தாகத்தையும் மீட்டெடுக்கும் போது மட்டுமே குடிக்கவும்",
+  "screen.thirst_was_upgraded.filter_pure_only": "சுத்திகரிக்கப்பட்ட தண்ணீரை மட்டுமே பயன்படுத்தவும்",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "எந்த தூய்மையான தண்ணீரையும் அனுமதிக்கவும்"
+}

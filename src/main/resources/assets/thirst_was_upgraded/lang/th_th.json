@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "อัปเกรดการดื่ม",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "ดื่มน้ำและเครื่องดื่มอื่นๆ จากกระเป๋าเป้สะพายหลังโดยอัตโนมัติเพื่อดับกระหาย",
+  "screen.thirst_was_upgraded.drinking_upgrade": "อัปเกรดการดื่ม",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "อนุญาตเครื่องดื่มตามรายการ (ใช้ขวดน้ำหรือถังสำหรับเก็บน้ำในถัง)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "บล็อกเครื่องดื่มที่ระบุไว้ (ใช้ขวดน้ำหรือถังสำหรับเก็บน้ำในถัง)",
+  "screen.thirst_was_upgraded.filter_always_drink": "ดื่มทุกครั้งที่แถบกระหายน้ำไม่เต็ม",
+  "screen.thirst_was_upgraded.filter_half_hydration": "ดื่มเมื่อสามารถใช้ฟื้นฟูความกระหายได้อย่างน้อยครึ่งหนึ่ง",
+  "screen.thirst_was_upgraded.filter_full_hydration": "ดื่มเฉพาะเมื่อสามารถใช้การฟื้นฟูความกระหายของเครื่องดื่มได้ทั้งหมดเท่านั้น",
+  "screen.thirst_was_upgraded.filter_pure_only": "ใช้น้ำบริสุทธิ์เท่านั้น",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "อนุญาตให้มีน้ำที่มีความบริสุทธิ์"
+}

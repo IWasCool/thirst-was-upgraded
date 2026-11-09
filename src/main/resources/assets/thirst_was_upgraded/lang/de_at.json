@@ -1,0 +1,12 @@
+{
+  "item.thirst_was_upgraded.auto_drink_upgrade": "Trink-Upgrade",
+  "item.travelersbackpack.auto_drink_upgrade_tooltip": "Trinkt automatisch Wasser und andere Getränke aus dem Rucksack, um den Durst zu stillen",
+  "screen.thirst_was_upgraded.drinking_upgrade": "Trink-Upgrade",
+  "screen.thirst_was_upgraded.filter_allow_drinks": "Aufgelistete Getränke erlauben (Wasserflasche oder Eimer als Filter für Tankwasser verwenden)",
+  "screen.thirst_was_upgraded.filter_block_drinks": "Aufgelistete Getränke blockieren (Wasserflasche oder Eimer als Filter für Tankwasser verwenden)",
+  "screen.thirst_was_upgraded.filter_always_drink": "Trinken, sobald die Durstleiste nicht voll ist",
+  "screen.thirst_was_upgraded.filter_half_hydration": "Trinken, wenn mindestens die Hälfte der durststillenden Wirkung genutzt werden kann",
+  "screen.thirst_was_upgraded.filter_full_hydration": "Nur trinken, wenn die gesamte durststillende Wirkung genutzt werden kann",
+  "screen.thirst_was_upgraded.filter_pure_only": "Nur gereinigtes Wasser verwenden",
+  "screen.thirst_was_upgraded.filter_allow_all_water": "Wasser jeder Reinheit erlauben"
+}
