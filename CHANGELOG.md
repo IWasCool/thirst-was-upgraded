@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.0.7 | Resource-Pack-Aware Drinking Buttons
+
+- Draw the two water-button backgrounds and hover highlights from Traveler's Backpack's native GUI atlas, so backpack GUI resource packs can style them.
+- Draw water symbols from Thirst Was Reclaimed's HUD atlas, so thirst-bar resource packs also apply. Keep full, half-full, and empty thirst states and a green tint for allowing impure water.
+- Stop rendering the old combined water-icon/background texture, including the baked-background override bundled with Create New World Core.
+- Preserve compatibility with Create New World Core's existing water-icon mixin without requiring a core update.
+
 ## 0.0.6 | Project Cleanup & Languages
 
 - Updated author credit to Izcool and added public source and issue links.

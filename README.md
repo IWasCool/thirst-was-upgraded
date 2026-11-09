@@ -4,7 +4,7 @@ A thirst-aware **Drinking Upgrade** for Traveler's Backpack, by **Izcool**.
 For **Minecraft 1.21.1 / NeoForge**. Install on both the client and server.
 
 **Source:** [IWasCool/thirst-was-upgraded](https://github.com/IWasCool/thirst-was-upgraded)
-| **Version:** 0.0.6 | **License:** [MIT](LICENSE)
+| **Version:** 0.0.7 | **License:** [MIT](LICENSE)
 
 ## Features
 
@@ -14,8 +14,16 @@ For **Minecraft 1.21.1 / NeoForge**. Install on both the client and server.
 - Choose purified water only or all water purities. Normal thirst-mod purity effects still apply.
 - Keep feeding and drinking behavior coordinated with Thirst Was Reclaimed.
 - Fill both backpack tanks correctly with external fluid handlers, including Create Spouts.
+- Resource-pack-aware drinking controls: backgrounds use Traveler's Backpack's GUI atlas, and droplets use Thirst Was Reclaimed's thirst-bar atlas.
 
 Hoses are excluded from automatic drinking to avoid spills and accidental fluid use.
+
+The water controls borrow the allow/block button's frame and background color from
+`assets/travelersbackpack/textures/gui/icons.png`. Their water symbols use
+`assets/thirst/textures/gui/thirst_icons.png`. Resource packs can replace those
+normal upstream textures; no separate Thirst Was Upgraded background override is
+needed. The old combined `thirst_was_upgraded:textures/gui/icons.png` is no longer
+used, including overrides bundled with older Create New World Core builds.
 
 ## Installation
 
@@ -29,7 +37,7 @@ Use Minecraft **1.21.1**, **NeoForge 21.1.248+**, and these required mods:
 Download the `thirst-was-upgraded` artifact from a successful
 [GitHub Actions build](https://github.com/IWasCool/thirst-was-upgraded/actions/workflows/build.yml)
 and extract the ZIP, or build from source. GitHub requires sign-in to download build artifacts.
-Place `thirst_was_upgraded-0.0.6.jar` in the `mods` folder on the client and server.
+Place `thirst_was_upgraded-0.0.7.jar` in the `mods` folder on the client and server.
 The separate `-sources.jar` contains source code for developers.
 
 **Optional integrations:** Create 6.0.10+ adds Builder's Tea support; Tough As Nails
@@ -67,7 +75,7 @@ Install **JDK 21** and run:
 
 On Linux or macOS, run `./gradlew build`. Gradle downloads pinned dependencies
 automatically; no local modpack JARs are required. The first build needs internet access.
-The mod is written to `build/libs/thirst_was_upgraded-0.0.6.jar`.
+The mod is written to `build/libs/thirst_was_upgraded-0.0.7.jar`.
 Builds run the drinking/filter/tank regression tests and validate every language file.
 Use `./gradlew validateTranslations` to check translations separately.
 
