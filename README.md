@@ -38,7 +38,7 @@ Download the mod JAR from [GitHub Releases](https://github.com/IWasCool/thirst-w
 or download the `thirst-was-upgraded` artifact from a successful
 [GitHub Actions build](https://github.com/IWasCool/thirst-was-upgraded/actions/workflows/build.yml)
 and extract the ZIP, or build from source. GitHub requires sign-in to download build artifacts.
-Place `thirst_was_upgraded-1.0.0.jar` in the `mods` folder on the client and server,
+Place `thirst_was_upgraded-neoforge-1.21.1-1.0.0.jar` in the `mods` folder on the client and server,
 replacing older Thirst Was Upgraded JARs so only one version is installed.
 The separate `-sources.jar` contains source code for developers.
 
@@ -77,7 +77,7 @@ Install **JDK 21** and run:
 
 On Linux or macOS, run `./gradlew build`. Gradle downloads pinned dependencies
 automatically; no local modpack JARs are required. The first build needs internet access.
-The mod is written to `build/libs/thirst_was_upgraded-1.0.0.jar`.
+The mod is written to `build/libs/thirst_was_upgraded-neoforge-1.21.1-1.0.0.jar`.
 Builds validate every language file before packaging the mod.
 Use `./gradlew validateTranslations` to check translations separately.
 

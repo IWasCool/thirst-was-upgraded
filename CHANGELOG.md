@@ -2,6 +2,7 @@
 
 ## 1.0.0 | Stable Release
 
+- Include the loader and Minecraft version in JAR filenames: `thirst_was_upgraded-neoforge-1.21.1-1.0.0.jar`. The mod version remains 1.0.0.
 - Keep local regression tests and translation-authoring tools out of the public source tree; retain automatic language validation in public builds.
 - Promote the resource-pack-aware drinking-button update to the first stable release.
 - Includes automatic drinking, nine-slot allow/block filters, purity controls, and backpack tank-filling fixes.
