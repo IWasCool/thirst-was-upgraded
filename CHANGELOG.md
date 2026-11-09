@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 | Stable Release
+
+- Promote the resource-pack-aware drinking-button update to the first stable release.
+- Includes automatic drinking, nine-slot allow/block filters, purity controls, and backpack tank-filling fixes.
+- Includes all 143 language files, with translation coverage and English fallbacks documented in TRANSLATIONS.md.
+- Preserve the existing mod ID, item IDs, saved upgrades, filter settings, and drinking behavior from 0.0.7.
+
 ## 0.0.7 | Resource-Pack-Aware Drinking Buttons
 
 - Draw the two water-button backgrounds and hover highlights from Traveler's Backpack's native GUI atlas, so backpack GUI resource packs can style them.

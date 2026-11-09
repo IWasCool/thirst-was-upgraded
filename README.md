@@ -4,7 +4,7 @@ A thirst-aware **Drinking Upgrade** for Traveler's Backpack, by **Izcool**.
 For **Minecraft 1.21.1 / NeoForge**. Install on both the client and server.
 
 **Source:** [IWasCool/thirst-was-upgraded](https://github.com/IWasCool/thirst-was-upgraded)
-| **Version:** 0.0.7 | **License:** [MIT](LICENSE)
+| **Version:** 1.0.0 | **License:** [MIT](LICENSE)
 
 ## Features
 
@@ -34,10 +34,12 @@ Use Minecraft **1.21.1**, **NeoForge 21.1.248+**, and these required mods:
 | [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) | 10.1.38 |
 | [Thirst Was Reclaimed](https://modrinth.com/mod/thirst-was-reclaimed) | 1.21.1-3.0.4 |
 
-Download the `thirst-was-upgraded` artifact from a successful
+Download the mod JAR from [GitHub Releases](https://github.com/IWasCool/thirst-was-upgraded/releases/latest),
+or download the `thirst-was-upgraded` artifact from a successful
 [GitHub Actions build](https://github.com/IWasCool/thirst-was-upgraded/actions/workflows/build.yml)
 and extract the ZIP, or build from source. GitHub requires sign-in to download build artifacts.
-Place `thirst_was_upgraded-0.0.7.jar` in the `mods` folder on the client and server.
+Place `thirst_was_upgraded-1.0.0.jar` in the `mods` folder on the client and server,
+replacing older Thirst Was Upgraded JARs so only one version is installed.
 The separate `-sources.jar` contains source code for developers.
 
 **Optional integrations:** Create 6.0.10+ adds Builder's Tea support; Tough As Nails
@@ -75,7 +77,7 @@ Install **JDK 21** and run:
 
 On Linux or macOS, run `./gradlew build`. Gradle downloads pinned dependencies
 automatically; no local modpack JARs are required. The first build needs internet access.
-The mod is written to `build/libs/thirst_was_upgraded-0.0.7.jar`.
+The mod is written to `build/libs/thirst_was_upgraded-1.0.0.jar`.
 Builds run the drinking/filter/tank regression tests and validate every language file.
 Use `./gradlew validateTranslations` to check translations separately.
 
