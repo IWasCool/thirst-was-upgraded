@@ -46,32 +46,11 @@ neoForge {
     runs {
         client {
             client()
-
-            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
         }
 
         server {
             server()
             programArgument '--nogui'
-
-            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
-        }
-
-        gameTestServer {
-            type = "gameTestServer"
-
-            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
-        }
-
-        data {
-            data()
-
-            programArguments.addAll(
-                    '--mod', project.mod_id,
-                    '--all',
-                    '--output', file('src/generated/resources/').getAbsolutePath(),
-                    '--existing', file('src/main/resources/').getAbsolutePath()
-            )
         }
 
         configureEach {
@@ -87,22 +66,12 @@ neoForge {
 }
 
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter:5.11.4'
-    testImplementation 'org.mockito:mockito-core:5.14.2'
-    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.11.4'
     implementation("maven.modrinth:travelersbackpack:${travelers_backpack_version}") { transitive = false }
     implementation("maven.modrinth:thirst-was-reclaimed:${thirst_version}") { transitive = false }
 }
 
-neoForge {
-    unitTest {
-        enable()
-        testedMod = mods."${mod_id}"
-    }
-}
-
-tasks.named('test', Test).configure {
-    useJUnitPlatform()
+if (file('gradle/local-tests.gradle').exists()) {
+    apply from: 'gradle/local-tests.gradle'
 }
 
 tasks.named('processResources', ProcessResources).configure {

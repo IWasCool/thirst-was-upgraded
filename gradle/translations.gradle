@@ -1,5 +1,5 @@
 // Keep every supported locale complete before packaging resources.
-def catalogueFile = layout.projectDirectory.file('tools/localization/minecraft-languages.json')
+def catalogueFile = layout.projectDirectory.file('gradle/minecraft-languages.json')
 def languageFiles = fileTree('src/main/resources/assets/thirst_was_upgraded/lang') {
     include '*.json'
 }

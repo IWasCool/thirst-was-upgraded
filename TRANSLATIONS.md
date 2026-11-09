@@ -62,9 +62,8 @@ These locales intentionally use English until a reliable translation is contribu
 | Voro | `vro` |
 | بهاس ملايو | `zlm_arab` |
 
-The machine-readable [coverage manifest](tools/localization/coverage.json)
-records the status and base language of every file. The
-[language catalogue](tools/localization/minecraft-languages.json) retains native
+The status table and fallback list above describe the current coverage. The
+[language catalogue](gradle/minecraft-languages.json) retains native
 names and right-to-left metadata. Minecraft handles right-to-left rendering.
 
 ## Contributing
@@ -76,20 +75,14 @@ names and right-to-left metadata. Minecraft handles right-to-left rendering.
    Indexed arguments such as `%2$s` may reorder them.
 3. Keep the two Drinking Upgrade names consistent. The item-tooltip key intentionally
    uses the `travelersbackpack` namespace because its upgrade API requests that key.
-4. Update the coverage manifest when replacing an English fallback or base-language copy.
+4. Update this guide when replacing an English fallback or base-language copy.
 5. Run `./gradlew validateTranslations` (`gradlew.bat validateTranslations` on Windows)
    with JDK 21. `build`, `check`, and resource packaging run this automatically.
 
 Validation checks the catalogue, exact key coverage, JSON parsing, nonempty string
 values, replacement characters, and formatting arguments. It cannot assess fluency.
 
-The optional [draft import tool](tools/localization/import-drafts.py) sends only
-public English UI strings to Google Translate and writes drafts under the ignored
-`build/localization/drafts` directory. Run, for example,
-`python tools/localization/import-drafts.py de fr ja`. It does not overwrite shipped
-translations. Drafts must be reviewed and copied into the appropriate locale manually;
-[translation-sources.json](tools/localization/translation-sources.json) records the
-language mappings used for the initial import. Normal builds and gameplay never call
-a translation service. A regular build needs only JDK 21, not Python.
+Normal builds and gameplay use the checked-in language files and never call a
+translation service. A regular build needs only JDK 21.
 
 Contributions are covered by the project's [MIT license](LICENSE).

@@ -54,3 +54,11 @@ __pycache__/
 *.class
 *.hprof
 /crash-reports/
+
+# Local verification and authoring tools (not public mod source)
+/src/test/
+/src/gametest/
+/src/verification/
+/gradle/local-tests.gradle
+/tools/
+/.local/

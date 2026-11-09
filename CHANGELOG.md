@@ -2,6 +2,7 @@
 
 ## 1.0.0 | Stable Release
 
+- Keep local regression tests and translation-authoring tools out of the public source tree; retain automatic language validation in public builds.
 - Promote the resource-pack-aware drinking-button update to the first stable release.
 - Includes automatic drinking, nine-slot allow/block filters, purity controls, and backpack tank-filling fixes.
 - Includes all 143 language files, with translation coverage and English fallbacks documented in TRANSLATIONS.md.

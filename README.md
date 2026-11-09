@@ -78,12 +78,14 @@ Install **JDK 21** and run:
 On Linux or macOS, run `./gradlew build`. Gradle downloads pinned dependencies
 automatically; no local modpack JARs are required. The first build needs internet access.
 The mod is written to `build/libs/thirst_was_upgraded-1.0.0.jar`.
-Builds run the drinking/filter/tank regression tests and validate every language file.
+Builds validate every language file before packaging the mod.
 Use `./gradlew validateTranslations` to check translations separately.
 
 For development, use `./gradlew runClient` or `./gradlew runServer`.
 Optional compatibility mods can be placed in the development `run/mods` directory.
-Local dependency copies, worlds, logs, IDE files, and caches are excluded from Git.
+Local tests, authoring tools, dependency copies, worlds, logs, IDE files, and caches
+are excluded from Git. The public repository contains the mod source and assets,
+build files, licenses, and release documentation.
 
 See [CHANGELOG.md](CHANGELOG.md) for changes and the
 [issue tracker](https://github.com/IWasCool/thirst-was-upgraded/issues) to report problems.
