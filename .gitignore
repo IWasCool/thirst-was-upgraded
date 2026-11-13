@@ -63,3 +63,24 @@ __pycache__/
 /tools/
 /.local/
 *-sources.jar
+
+# Production-source repository: keep local development material untracked.
+/.github/
+/.run/
+/.idea/
+/.vscode/
+/src/clientSmoke/
+/src/testFixtures/
+/docs/
+/scripts/
+/exports/
+/screenshots/
+/AGENTS.md
+/CHANGELOG.md
+/CONTRIBUTING.md
+/MODPACK_STATUS.md
+/MODPACK_STATUS.example.md
+/build/
+/.gradle/
+/run/
+/run-*/

@@ -34,10 +34,8 @@ Use Minecraft **1.21.1**, **NeoForge 21.1.248+**, and these required mods:
 | [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) | 10.1.38 |
 | [Thirst Was Reclaimed](https://modrinth.com/mod/thirst-was-reclaimed) | 1.21.1-3.0.4 |
 
-Download the mod JAR from [GitHub Releases](https://github.com/IWasCool/thirst-was-upgraded/releases/latest),
-or download the `thirst-was-upgraded` artifact from a successful
-[GitHub Actions build](https://github.com/IWasCool/thirst-was-upgraded/actions/workflows/build.yml)
-and extract the ZIP, or build from source. GitHub requires sign-in to download build artifacts.
+Download the mod JAR from [GitHub Releases](https://github.com/IWasCool/thirst-was-upgraded/releases/latest)
+or build it from source using the instructions below.
 Place `thirst_was_upgraded-neoforge-1.21.1-1.0.0.jar` in the `mods` folder on the client and server,
 replacing older Thirst Was Upgraded JARs so only one version is installed.
 
@@ -63,8 +61,7 @@ drinking tab to configure the filter, thirst threshold, and water purity.
 
 Includes complete key coverage for all **137 Minecraft 1.21.1 language options**,
 plus six additional community locales matching the other Our Creation mods.
-Initial translations, regional variants, and explicitly listed English fallbacks
-are described in [TRANSLATIONS.md](TRANSLATIONS.md). Contributions and corrections are welcome.
+Some locales use English fallbacks. Translation corrections are welcome.
 
 ## Building
 
@@ -77,16 +74,7 @@ Install **JDK 21** and run:
 On Linux or macOS, run `./gradlew build`. Gradle downloads pinned dependencies
 automatically; no local modpack JARs are required. The first build needs internet access.
 The mod is written to `build/libs/thirst_was_upgraded-neoforge-1.21.1-1.0.0.jar`.
-Builds validate every language file before packaging the mod.
-Use `./gradlew validateTranslations` to check translations separately.
 
-For development, use `./gradlew runClient` or `./gradlew runServer`.
-Optional compatibility mods can be placed in the development `run/mods` directory.
-Local tests, authoring tools, dependency copies, worlds, logs, IDE files, and caches
-are excluded from Git. The public repository contains the mod source and assets,
-build files, licenses, and release documentation.
-
-See [CHANGELOG.md](CHANGELOG.md) for changes and the
-[issue tracker](https://github.com/IWasCool/thirst-was-upgraded/issues) to report problems.
+Use the [issue tracker](https://github.com/IWasCool/thirst-was-upgraded/issues) to report problems.
 The [NeoForge template license](TEMPLATE_LICENSE.txt) is retained; dependency mods
 remain separate projects under their own licenses and are not bundled in this addon.

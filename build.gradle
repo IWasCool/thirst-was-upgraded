@@ -1,7 +1,6 @@
 plugins {
     id 'java-library'
     id 'net.neoforged.moddev' version '2.0.144'
-    id 'idea'
 }
 
 version = mod_version
@@ -28,8 +27,6 @@ repositories {
 }
 
 sourceSets.main.resources {
-    srcDir('src/generated/resources')
-
     exclude("**/*.bbmodel")
     exclude("src/generated/**/.cache")
 }
@@ -42,21 +39,6 @@ neoForge {
         minecraftVersion = project.parchment_minecraft_version
     }
 
-    runs {
-        client {
-            client()
-        }
-
-        server {
-            server()
-            programArgument '--nogui'
-        }
-
-        configureEach {
-            logLevel = org.slf4j.event.Level.DEBUG
-        }
-    }
-
     mods {
         "${mod_id}" {
             sourceSet(sourceSets.main)
@@ -67,10 +49,6 @@ neoForge {
 dependencies {
     implementation("maven.modrinth:travelersbackpack:${travelers_backpack_version}") { transitive = false }
     implementation("maven.modrinth:thirst-was-reclaimed:${thirst_version}") { transitive = false }
-}
-
-if (file('gradle/local-tests.gradle').exists()) {
-    apply from: 'gradle/local-tests.gradle'
 }
 
 tasks.named('processResources', ProcessResources).configure {
@@ -95,7 +73,6 @@ tasks.named('processResources', ProcessResources).configure {
         expand replaceProperties
     }
 }
-apply from: 'gradle/translations.gradle'
 
 tasks.withType(AbstractArchiveTask).configureEach {
     includeEmptyDirs = false
@@ -110,11 +87,4 @@ tasks.withType(Jar).configureEach {
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
-}
-
-idea {
-    module {
-        downloadSources = true
-        downloadJavadoc = true
-    }
 }
